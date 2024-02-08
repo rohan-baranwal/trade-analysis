@@ -11,8 +11,12 @@
             "id": "113ad631cfe3511f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TVSMOTOR/TVS Motors Kundli (08 Feb 2024).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TVSMOTOR/TVS Motors Kundli (08 Feb 2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TVSMOTOR/TVS Motors Kundli (08 Feb 2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TVSMOTOR/TVS Motors Kundli (08 Feb 2024).md"
+              }
             }
           }
         ]
@@ -139,8 +147,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "067a388c180ddaf0",
+  "active": "113ad631cfe3511f",
   "lastOpenFiles": [
+    "TVSMOTOR/TVS Motors Kundli (08 Feb 2024).md",
+    "TVSMOTOR",
     "README.md",
     "Untitled.md"
   ]
