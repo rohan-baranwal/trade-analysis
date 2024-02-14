@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "113ad631cfe3511f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "TVSMOTOR/Pictures/Pasted image 20240208184728.png"
-              }
-            }
-          },
-          {
             "id": "5c5218f239b98eba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TVSMOTOR/Analysis/TVS Motors - Top Down (2024-02-08).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TVSMOTOR/Analysis/TVS Motors - Top Down (2024-02-08).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TVSMOTOR/Analysis/TVS Motors - Top Down (2024-02-08).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TVSMOTOR/Analysis/TVS Motors - Top Down (2024-02-08).md"
+                "file": "README.md"
               }
             }
           },
@@ -153,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,22 +152,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "remotely-save:Remotely Save": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "5c5218f239b98eba",
+  "active": "067a388c180ddaf0",
   "lastOpenFiles": [
-    "TVSMOTOR/Pictures/Pasted image 20240208183927.png",
+    "BTC/Analysis/Bitcoin - Top Down (2024-02-14).md",
+    "BTC/BTC.md",
+    "BTC/Analysis/Infosys - Top Down (2024-02-14).md",
+    "BTC/Pictures",
+    "BTC/INFY.md",
+    "BTC/Analysis",
+    "BTC",
+    "INFY - Copy/Pictures",
+    "INFY - Copy/Analysis/Infosys - Top Down (2024-02-14).md",
+    "INFY - Copy/INFY.md",
+    "INFY - Copy/Analysis",
+    "INFY - Copy",
+    "INFY/INFY.md",
+    "INFY/Analysis/Infosys - Top Down (2024-02-14).md",
+    "INFY/Pictures",
+    "INFY/Analysis",
+    "TVSMOTOR/TVSMOTOR.md",
     "TVSMOTOR/Pictures/Pasted image 20240208184728.png",
+    "README.md",
+    "INFY",
     "TVSMOTOR/Analysis/TVS Motors - Top Down (2024-02-08).md",
     "TVS Motors - Top Down (2024-02-08).pdf",
-    "TVSMOTOR/TVSMOTOR.md",
-    "README.md",
+    "TVSMOTOR/Pictures/Pasted image 20240208183927.png",
     "TVSMOTOR/Pictures/Pasted image 20240208182009.png",
-    "TVSMOTOR/Analysis",
-    "TVSMOTOR/Pictures",
-    "TVSMOTOR",
     "Untitled.md"
   ]
 }
