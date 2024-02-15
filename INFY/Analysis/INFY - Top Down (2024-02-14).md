@@ -37,6 +37,7 @@
 
 ### Questions
 1. ***Why did this selling pressure break EMA 20 support?***   ![[Pasted image 20240214223614.png]]
+   We should not give that much importance to EMA 20.
 
 2. ***Follow up of above question on smaller time frame. Why did price go up from here?***![[Pasted image 20240214233210.png]]
    
