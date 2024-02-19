@@ -1,13 +1,13 @@
 ## Top Down Analysis
 ---
 ### Yearly Timeframe
-![[Pasted image 20240208182009.png]]
+![](_attachments/96473846ebe8f26a302bdb75a1bb395a.png)
 
 ### Half Yearly Timeframe
-![[Pasted image 20240208183927.png]]
+![](_attachments/1004a9af1abdecb93fa22c32fa7aedf5.png)
 
 ### Quarterly Timeframe
-![[Pasted image 20240208184728.png]]
+![](_attachments/d40f5ee5731d7f79988167d5148c2561.png)
 
 ### Monthly Timeframe
 
