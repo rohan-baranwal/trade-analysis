@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "83ea9e4e2b0bb9a1",
+        "id": "fdf98ca819302120",
         "type": "tabs",
         "children": [
           {
-            "id": "46b01f5566842961",
+            "id": "e14acbca70193c35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INFY/Analysis/INFY - Top Down (2024-02-14).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFY/Analysis/INFY - Top Down (2024-02-14).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFY/Analysis/INFY - Top Down (2024-02-14).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "INFY/Analysis/INFY - Top Down (2024-02-14).md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +148,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "46b01f5566842961",
+  "active": "e14acbca70193c35",
   "lastOpenFiles": [
-    "INFY/Trade Setups/INFY - 2024-02-14.md",
     "INFY/Analysis/INFY - Top Down (2024-02-14).md",
+    "DENORA",
+    "INFY/Trade Setups/INFY - 2024-02-14.md",
     "_exports/INFY - 2024-02-14.pdf",
     "_exports/INFY - Top Down (2024-02-14).2.pdf",
     "_exports/INFY - Top Down (2024-02-14).pdf",
@@ -173,7 +166,6 @@
     "_templates/Multiple Time Frame Analysis.md",
     "_templates/Top Down Approach.md",
     "INFY/Trade Setups",
-    "Untitled",
     "INFY/Pictures/Pasted image 20240214233210.png",
     "INFY/Pictures/Pasted image 20240214231536.png",
     "INFY/Pictures/Pasted image 20240214231111.png",
