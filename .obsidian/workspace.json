@@ -10,15 +10,13 @@
           {
             "id": "5cd5943be91ce019",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBL/tda/DBL - TDA - (2024-02-19).md",
+                "file": "DBL/mtfa/DBL - MTFA - 2024-02-19.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -33,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBL/DBL.md",
+                "file": "DBL/mtfa/DBL - MTFA - 2024-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBL/DBL.md",
+                "file": "DBL/mtfa/DBL - MTFA - 2024-02-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBL/DBL.md"
+                "file": "DBL/mtfa/DBL - MTFA - 2024-02-19.md"
               }
             }
           },
@@ -171,13 +168,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ef6a85f0352dfb9d",
+  "active": "5cd5943be91ce019",
   "lastOpenFiles": [
     "DBL/tda/DBL - TDA - (2024-02-19).md",
+    "DBL/mtfa/DBL - MTFA - 2024-02-19.md",
+    "DBL/tda/_attachments/Pasted image 20240219224727.png",
+    "DBL/tda/_attachments/Pasted image 20240219224324.png",
+    "DBL/DBL.md",
     "_templates/TDA.md",
     "_templates/MTFA.md",
     "_templates/Stock Entry Page.md",
-    "DBL/DBL.md",
     "DBL/tda/_attachments/Pasted image 20240219221931.png",
     "DBL/tda/_attachments/Pasted image 20240219220147.png",
     "DBL/tda/_attachments/Pasted image 20240219215847.png",
@@ -203,8 +203,6 @@
     "INFY/Trade Setups/_attachments/89136cc21984b0b03ed4aa93aabcaf9c.png",
     "INFY/Trade Setups/_attachments/3d3bd3f4a985b21986bcdea95c09e3d1.png",
     "INFY/Trade Setups/_attachments/3f3784c1bda854af1ee1323c18d4b904.png",
-    "INFY/Trade Setups/_attachments/a3d27ef59c981d22a86da478d7faef14.png",
-    "INFY/Analysis/_attachments/329c4f5d10e68779480bc050e49df0a6.png",
     "BTC/BTC.md",
     "BTC/Analysis/Bitcoin - Top Down (2024-02-14).md",
     "TVSMOTOR/Analysis/TVS Motors - Top Down (2024-02-08).md",
