@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "fdf98ca819302120",
+        "id": "7fa8ee2d7bf0fce2",
         "type": "tabs",
         "children": [
           {
-            "id": "e14acbca70193c35",
+            "id": "5cd5943be91ce019",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBL/tda/Top Down Analysis - (2024-02-19).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "92c41df2cf5ce2b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_templates/Multiple Time Frame Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "DBL/tda/Top Down Analysis - (2024-02-19).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "DBL/tda/Top Down Analysis - (2024-02-19).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "DBL/tda/Top Down Analysis - (2024-02-19).md"
               }
             }
           },
@@ -156,16 +170,26 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e14acbca70193c35",
+  "active": "5cd5943be91ce019",
   "lastOpenFiles": [
-    "consistency-report.md",
-    "TVSMOTOR/TVSMOTOR.md",
+    "DBL/tda/_attachments/Pasted image 20240219221931.png",
+    "DBL/tda/_attachments/Pasted image 20240219220147.png",
+    "DBL/tda/_attachments/Pasted image 20240219215847.png",
+    "DBL/tda/_attachments/Pasted image 20240219215154.png",
+    "_templates/Multiple Time Frame Analysis.md",
+    "_templates/Top Down Approach.md",
+    "DBL/tda/Top Down Analysis - (2024-02-19).md",
+    "DBL/tda/_attachments/Pasted image 20240219214308.png",
+    "DBL/tda/_attachments",
     "DBL/DBL.md",
+    "DBL/mtfa",
+    "Untitled",
+    "DBL/tda",
     "README.md",
+    "TVSMOTOR/TVSMOTOR.md",
+    "consistency-report.md",
     "DENORA/DENORA.md",
     "_templates/Stock Entry Page.md",
-    "_templates/Top Down Approach.md",
-    "_templates/Multiple Time Frame Analysis.md",
     "INFY/INFY.md",
     "INFY/Analysis/INFY - Top Down (2024-02-14).md",
     "INFY/Analysis/_attachments",
@@ -175,20 +199,12 @@
     "DENORA",
     "INFY/Trade Setups/INFY - 2024-02-14.md",
     "_exports/INFY - 2024-02-14.pdf",
-    "_exports/INFY - Top Down (2024-02-14).2.pdf",
-    "_exports/INFY - Top Down (2024-02-14).pdf",
-    "_exports",
-    "New folder",
     "INFY/Trade Setups/_attachments/89136cc21984b0b03ed4aa93aabcaf9c.png",
     "INFY/Trade Setups/_attachments/3d3bd3f4a985b21986bcdea95c09e3d1.png",
     "INFY/Trade Setups/_attachments/3f3784c1bda854af1ee1323c18d4b904.png",
     "INFY/Trade Setups/_attachments/a3d27ef59c981d22a86da478d7faef14.png",
     "INFY/Analysis/_attachments/329c4f5d10e68779480bc050e49df0a6.png",
     "INFY/Analysis/_attachments/eef1e3173a853cee44807e82fca9f652.png",
-    "INFY/Analysis/_attachments/11540ac444061c253a632b6c5106185b.png",
-    "INFY/Analysis/_attachments/354232512958c81eec2849cb80d56144.png",
-    "INFY/_attachments/Pasted image 20240214230326.png",
-    "INFY/Analysis/_attachments/06ff3f00d5bde7cfb175ecafc1f5c4a9.png",
     "BTC/BTC.md",
     "BTC/Analysis/Bitcoin - Top Down (2024-02-14).md",
     "TVSMOTOR/Analysis/TVS Motors - Top Down (2024-02-08).md",

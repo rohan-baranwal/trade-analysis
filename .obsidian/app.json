@@ -9,5 +9,6 @@
   },
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./_attachments"
+  "attachmentFolderPath": "./_attachments",
+  "newFileLocation": "current"
 }
