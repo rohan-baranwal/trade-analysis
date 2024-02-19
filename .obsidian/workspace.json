@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPL/tda/UPL - TDA - 2024-02-20.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UPL/tda/UPL - TDA - 2024-02-20.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UPL/tda/UPL - TDA - 2024-02-20.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UPL/tda/UPL - TDA - 2024-02-20.md"
+                "file": "README.md"
               }
             }
           },
@@ -171,11 +171,11 @@
   },
   "active": "0165a14bf94ec018",
   "lastOpenFiles": [
-    "_templates/MTFA.md",
     "UPL/UPL.md",
-    "UPL/tda/UPL - TDA - 2024-02-20.md",
-    "UPL/mtfa/UPL - MTFA - MIT - 2024-02-19.md",
     "README.md",
+    "UPL/tda/UPL - TDA - 2024-02-20.md",
+    "_templates/MTFA.md",
+    "UPL/mtfa/UPL - MTFA - MIT - 2024-02-19.md",
     "UPL/mtfa/_attachments/Pasted image 20240220013124.png",
     "UPL/mtfa/_attachments/Pasted image 20240220011658.png",
     "UPL/mtfa/_attachments/Pasted image 20240220011259.png",
