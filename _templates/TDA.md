@@ -1,4 +1,4 @@
-TDA - ({{date}})
+{STOCK} - TDA - {{date}}
 
 ### Yearly Time Frame
 - 

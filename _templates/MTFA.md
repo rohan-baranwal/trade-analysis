@@ -1,4 +1,4 @@
-{STOCK NAME} - MTFA- {{date}}
+{STOCK} - MTFA - {TYPE} - {{date}}
 ### Type of Trade
 - [ ] YIT
 - [ ] HYIT
