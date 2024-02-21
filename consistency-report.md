@@ -1,6 +1,5 @@
 # Bad links (3 files)
 [README.md](README.md): 
-- (line 13): `TVSMOTOR.md`
 - (line 19): `BTC.md`
 
 

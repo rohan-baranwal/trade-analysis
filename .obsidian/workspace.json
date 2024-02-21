@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7fa8ee2d7bf0fce2",
+        "id": "ac1986c7283a585b",
         "type": "tabs",
         "children": [
           {
-            "id": "ef6a85f0352dfb9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/MTFA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0165a14bf94ec018",
+            "id": "dfac88e4a9783b0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,14 +156,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0165a14bf94ec018",
+  "active": "dfac88e4a9783b0f",
   "lastOpenFiles": [
     "TVSMOTOR/TVSMOTOR.md",
-    "consistency-report.md",
+    "_templates/MTFA.md",
     "README.md",
+    "consistency-report.md",
     "UPL/UPL.md",
     "UPL/tda/UPL - TDA - 2024-02-20.md",
-    "_templates/MTFA.md",
     "UPL/mtfa/UPL - MTFA - MIT - 2024-02-19.md",
     "UPL/mtfa/_attachments/Pasted image 20240220013124.png",
     "UPL/mtfa/_attachments/Pasted image 20240220011658.png",
