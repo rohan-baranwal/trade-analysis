@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFY/INFY.md",
+                "file": "BTC/BTC.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFY/INFY.md",
+                "file": "BTC/BTC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFY/INFY.md",
+                "file": "BTC/BTC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFY/INFY.md"
+                "file": "BTC/BTC.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   "active": "6ddd5ef25324a98d",
   "lastOpenFiles": [
     "consistency-report.md",
+    "INFY/INFY.md",
     "README.md",
     "TVSMOTOR/TVSMOTOR.md",
     "_templates/MTFA.md",
@@ -203,7 +204,6 @@
     "DBL/mtfa",
     "DBL/tda",
     "DENORA/DENORA.md",
-    "INFY/INFY.md",
     "INFY/Analysis/INFY - Top Down (2024-02-14).md",
     "INFY/Analysis/_attachments",
     "INFY/Trade Setups/INFY - 2024-02-14.md",

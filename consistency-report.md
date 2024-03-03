@@ -1,11 +1,6 @@
-# Bad links (3 files)
+# Bad links (2 files)
 [README.md](README.md): 
 - (line 19): `BTC.md`
-
-
-[INFY/INFY.md](INFY/INFY.md): 
-- (line 3): `INFY - Top Down (2024-02-14).md`
-- (line 4): `INFY - 2024-02-14.md`
 
 
 [BTC/BTC.md](BTC/BTC.md): 
