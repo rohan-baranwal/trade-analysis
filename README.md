@@ -14,6 +14,6 @@
 | UPL | UPL Ltd | [UPL](UPL/UPL.md) | 2024-02-19 | Chemical |
 
 #### CRYPTO:
-| Symbol | Name | Location | Last Checked |
-| ---- | ---- | ---- | ---- |
-| BTC | Bitcoin | [BTC](BTC.md) | 2024-02-14 |
+| Symbol | Name    | Location          | Last Checked |
+| ------ | ------- | ----------------- | ------------ |
+| BTC    | Bitcoin | [BTC](BTC/BTC.md) | 2024-02-14   |

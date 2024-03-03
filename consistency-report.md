@@ -1,11 +1,5 @@
-# Bad links (2 files)
-[README.md](README.md): 
-- (line 19): `BTC.md`
-
-
-[BTC/BTC.md](BTC/BTC.md): 
-- (line 3): `Bitcoin - Top Down (2024-02-14).md`
-
+# Bad links 
+No problems found
 
 
 
