@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfac88e4a9783b0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBL/DBL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6ddd5ef25324a98d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "BANKINDIA/mtfa/BANKINDIA - MTFA - MIT - 2024-03-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "BANKINDIA/mtfa/BANKINDIA - MTFA - MIT - 2024-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "BANKINDIA/mtfa/BANKINDIA - MTFA - MIT - 2024-03-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "BANKINDIA/mtfa/BANKINDIA - MTFA - MIT - 2024-03-05.md"
               }
             }
           },
@@ -171,16 +158,20 @@
   },
   "active": "6ddd5ef25324a98d",
   "lastOpenFiles": [
-    "CAMS/CAMS.md",
+    "BANKINDIA/BANKINDIA.md",
+    "BANKINDIA/mtfa/BANKINDIA - MTFA - MIT - 2024-03-05.md",
+    "BANKINDIA/mtfa",
     "CAMS/tda/CAMS - TDA - 2024-03-05.md",
+    "BANKINDIA",
     "DBL/DBL.md",
+    "README.md",
+    "CAMS/CAMS.md",
     "CAMS/tda/_attachments/Pasted image 20240305195804.png",
     "CAMS/tda/_attachments/Pasted image 20240305195450.png",
     "CAMS/tda/_attachments/Pasted image 20240305195330.png",
     "CAMS/tda/_attachments/Pasted image 20240305194705.png",
     "CAMS/tda/_attachments/Pasted image 20240305194513.png",
     "CAMS/tda/_attachments",
-    "README.md",
     "CAMS/mtfa",
     "CAMS/tda",
     "CAMS",
@@ -203,10 +194,8 @@
     "DBL/tda/DBL - TDA - 2024-02-19.md",
     "UPL/mtfa",
     "UPL/tda",
-    "UPL",
     "DBL/mtfa/DBL - MTFA - 2024-02-19.md",
     "_templates/Stock Entry Page.md",
-    "DBL/tda/_attachments",
     "DENORA/DENORA.md",
     "INFY/Analysis/INFY - Top Down (2024-02-14).md",
     "INFY/Trade Setups/INFY - 2024-02-14.md",
@@ -214,7 +203,6 @@
     "TVSMOTOR/Analysis/TVS Motors - Top Down (2024-02-08).md",
     "BTC/Analysis/Infosys - Top Down (2024-02-14).md",
     "BTC/INFY.md",
-    "INFY - Copy/Analysis/Infosys - Top Down (2024-02-14).md",
-    "INFY - Copy/INFY.md"
+    "INFY - Copy/Analysis/Infosys - Top Down (2024-02-14).md"
   ]
 }
