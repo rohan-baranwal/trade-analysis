@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_checklist/Stocks Checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_checklist/Stocks Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_checklist/Stocks Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_checklist/Stocks Checklist.md"
               }
             }
           },
@@ -158,15 +158,25 @@
   },
   "active": "6ddd5ef25324a98d",
   "lastOpenFiles": [
+    "README.md",
+    "_checklist/Stocks Checklist.md",
+    "consistency-report.md",
+    "GREENLAM/mtfa/GREENLAM - MTFA - MIT - 2024-03-10.md",
+    "GREENLAM/GREENLAM.md",
+    "GREENLAM/mtfa/_attachments/Pasted image 20240310173435.png",
+    "GREENLAM/mtfa/_attachments/Pasted image 20240310173241.png",
+    "GREENLAM/mtfa/_attachments/Pasted image 20240310173206.png",
+    "GREENLAM/mtfa/_attachments",
+    "GREENLAM/mtfa",
+    "GREENLAM/tda",
+    "GREENLAM",
     "RAMCOCEM/tda/RAMCOCEM - TDA - 2024-03-10.md",
     "RAMCOCEM/RAMCOCEM.md",
-    "README.md",
     "RAMCOCEM/tda/_attachments/Pasted image 20240310163924.png",
     "RAMCOCEM/tda/_attachments/Pasted image 20240310163558.png",
     "RAMCOCEM/tda/_attachments/Pasted image 20240310161829.png",
     "RAMCOCEM/tda/_attachments",
     "M&M/M&M.md",
-    "Untitled",
     "RAMCOCEM/tda",
     "RAMCOCEM/mtfa",
     "RAMCOCEM",
@@ -176,32 +186,22 @@
     "M&M/mtfa/M&M - MTFA - MIT - 2024-03-10.md",
     "M&M/mtfa/_attachments/Pasted image 20240310154421.png",
     "M&M/mtfa/_attachments/Pasted image 20240310154353.png",
-    "M&M/mtfa/_attachments/Pasted image 20240310154319.png",
     "M&M/mtfa/_attachments",
     "_templates/MTFA.md",
     "_templates/Stock Entry Page.md",
-    "_daily_search/2024-03-10.md",
     "M&M/tda",
-    "M&M/mtfa",
-    "M&M",
     "_templates/Daily Trade Search.md",
-    "_daily_search",
     "BANKINDIA/BANKINDIA.md",
     "BANKINDIA/mtfa/BANKINDIA - MTFA - MIT - 2024-03-05.md",
     "CAMS/tda/CAMS - TDA - 2024-03-05.md",
     "DBL/DBL.md",
     "CAMS/CAMS.md",
-    "CAMS/tda/_attachments/Pasted image 20240305195804.png",
-    "CAMS/tda/_attachments/Pasted image 20240305195450.png",
-    "consistency-report.md",
     "BTC/BTC.md",
     "INFY/INFY.md",
     "TVSMOTOR/TVSMOTOR.md",
     "UPL/UPL.md",
     "UPL/tda/UPL - TDA - 2024-02-20.md",
     "UPL/mtfa/UPL - MTFA - MIT - 2024-02-19.md",
-    "_templates/TDA.md",
-    "DBL/tda/DBL - TDA - 2024-02-19.md",
-    "DBL/mtfa/DBL - MTFA - 2024-02-19.md"
+    "_templates/TDA.md"
   ]
 }

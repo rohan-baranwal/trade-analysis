@@ -2,7 +2,7 @@
 # Trade Analysis
 
 ---
-### Index
+### Stocks Checklist - [Stocks Checklist](_checklist/Stocks%20Checklist.md)
 
 #### NSE:
 | Symbol    | Name                             | Location                            | Last Checked | Sector               |
