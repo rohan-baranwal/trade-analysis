@@ -1,12 +1,5 @@
 {STOCK} - MTFA - {TYPE} - {{date}}
-### Type of Trade
-- [ ] YIT
-- [ ] HYIT
-- [ ] QIT
-- [ ] MIT
-- [ ] WIT
-- [ ] DIT
-- [ ] HIT
+### Type - 
 
 ### Location
 - 

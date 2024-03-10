@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9545ffeddf66c5ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily_search/2024-03-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_search/2024-03-10.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_search/2024-03-10.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_search/2024-03-10.md"
+                "file": "README.md"
               }
             }
           },
@@ -169,30 +156,43 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "067a388c180ddaf0",
+  "active": "6ddd5ef25324a98d",
   "lastOpenFiles": [
-    "_templates/Daily Trade Search.md",
-    "_daily_search",
+    "RAMCOCEM/tda/RAMCOCEM - TDA - 2024-03-10.md",
+    "RAMCOCEM/RAMCOCEM.md",
+    "README.md",
+    "RAMCOCEM/tda/_attachments/Pasted image 20240310163924.png",
+    "RAMCOCEM/tda/_attachments/Pasted image 20240310163558.png",
+    "RAMCOCEM/tda/_attachments/Pasted image 20240310161829.png",
+    "RAMCOCEM/tda/_attachments",
+    "M&M/M&M.md",
+    "Untitled",
+    "RAMCOCEM/tda",
+    "RAMCOCEM/mtfa",
+    "RAMCOCEM",
+    "M&M/mtfa/M&M - MTFA - WIT - 2024-03-10.md",
+    "M&M/mtfa/_attachments/Pasted image 20240310154834.png",
+    "M&M/mtfa/_attachments/Pasted image 20240310154633.png",
+    "M&M/mtfa/M&M - MTFA - MIT - 2024-03-10.md",
+    "M&M/mtfa/_attachments/Pasted image 20240310154421.png",
+    "M&M/mtfa/_attachments/Pasted image 20240310154353.png",
+    "M&M/mtfa/_attachments/Pasted image 20240310154319.png",
+    "M&M/mtfa/_attachments",
     "_templates/MTFA.md",
     "_templates/Stock Entry Page.md",
     "_daily_search/2024-03-10.md",
-    "README.md",
+    "M&M/tda",
+    "M&M/mtfa",
+    "M&M",
+    "_templates/Daily Trade Search.md",
+    "_daily_search",
     "BANKINDIA/BANKINDIA.md",
     "BANKINDIA/mtfa/BANKINDIA - MTFA - MIT - 2024-03-05.md",
-    "BANKINDIA/mtfa",
     "CAMS/tda/CAMS - TDA - 2024-03-05.md",
-    "BANKINDIA",
     "DBL/DBL.md",
     "CAMS/CAMS.md",
     "CAMS/tda/_attachments/Pasted image 20240305195804.png",
     "CAMS/tda/_attachments/Pasted image 20240305195450.png",
-    "CAMS/tda/_attachments/Pasted image 20240305195330.png",
-    "CAMS/tda/_attachments/Pasted image 20240305194705.png",
-    "CAMS/tda/_attachments/Pasted image 20240305194513.png",
-    "CAMS/tda/_attachments",
-    "CAMS/mtfa",
-    "CAMS/tda",
-    "CAMS",
     "consistency-report.md",
     "BTC/BTC.md",
     "INFY/INFY.md",
@@ -200,21 +200,8 @@
     "UPL/UPL.md",
     "UPL/tda/UPL - TDA - 2024-02-20.md",
     "UPL/mtfa/UPL - MTFA - MIT - 2024-02-19.md",
-    "UPL/mtfa/_attachments/Pasted image 20240220013124.png",
-    "UPL/mtfa/_attachments/Pasted image 20240220011658.png",
-    "UPL/mtfa/_attachments/Pasted image 20240220011259.png",
-    "UPL/mtfa/_attachments/Pasted image 20240220011157.png",
-    "UPL/mtfa/_attachments/Pasted image 20240220011123.png",
-    "UPL/mtfa/_attachments",
-    "UPL/tda/_attachments",
     "_templates/TDA.md",
     "DBL/tda/DBL - TDA - 2024-02-19.md",
-    "UPL/mtfa",
-    "DBL/mtfa/DBL - MTFA - 2024-02-19.md",
-    "DENORA/DENORA.md",
-    "INFY/Analysis/INFY - Top Down (2024-02-14).md",
-    "INFY/Trade Setups/INFY - 2024-02-14.md",
-    "BTC/Analysis/Bitcoin - Top Down (2024-02-14).md",
-    "TVSMOTOR/Analysis/TVS Motors - Top Down (2024-02-08).md"
+    "DBL/mtfa/DBL - MTFA - 2024-02-19.md"
   ]
 }
