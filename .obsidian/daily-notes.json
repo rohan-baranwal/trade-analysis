@@ -1,5 +1,5 @@
 {
-  "folder": "",
-  "template": "",
-  "autorun": false
+  "folder": "_daily_checklist",
+  "template": "_templates/Daily Trade Search",
+  "autorun": true
 }

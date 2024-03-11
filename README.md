@@ -2,9 +2,10 @@
 # Trade Analysis
 
 ---
-### Stocks Checklist - [Stocks Checklist](_checklist/Stocks%20Checklist.md)
+### Daily Stocks Checklist - [Daily Check List](_daily_checklist/Daily%20Check%20List.md)
 
 #### NSE:
+
 | Symbol    | Name                             | Location                            | Last Checked | Sector               |
 | --------- | -------------------------------- | ----------------------------------- | ------------ | -------------------- |
 | BANKINDIA | Bank of India                    | [BANKINDIA](BANKINDIA/BANKINDIA.md) | 2024-03-05   | #PublicSectorBanks   |

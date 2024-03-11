@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_checklist/Stocks Checklist.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_checklist/Stocks Checklist.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_checklist/Stocks Checklist.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_checklist/Stocks Checklist.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,8 +158,12 @@
   },
   "active": "6ddd5ef25324a98d",
   "lastOpenFiles": [
+    "_daily_checklist/Daily Check List.md",
+    "_daily_checklist/2024-01-12.md",
+    "_daily_checklist/2024-03-10.md",
     "README.md",
-    "_checklist/Stocks Checklist.md",
+    "_daily_checklist/2024-03-11.md",
+    "_templates/Daily Trade Search.md",
     "consistency-report.md",
     "GREENLAM/mtfa/GREENLAM - MTFA - MIT - 2024-03-10.md",
     "GREENLAM/GREENLAM.md",
@@ -190,7 +194,6 @@
     "_templates/MTFA.md",
     "_templates/Stock Entry Page.md",
     "M&M/tda",
-    "_templates/Daily Trade Search.md",
     "BANKINDIA/BANKINDIA.md",
     "BANKINDIA/mtfa/BANKINDIA - MTFA - MIT - 2024-03-05.md",
     "CAMS/tda/CAMS - TDA - 2024-03-05.md",
@@ -200,8 +203,6 @@
     "INFY/INFY.md",
     "TVSMOTOR/TVSMOTOR.md",
     "UPL/UPL.md",
-    "UPL/tda/UPL - TDA - 2024-02-20.md",
-    "UPL/mtfa/UPL - MTFA - MIT - 2024-02-19.md",
-    "_templates/TDA.md"
+    "UPL/tda/UPL - TDA - 2024-02-20.md"
   ]
 }
