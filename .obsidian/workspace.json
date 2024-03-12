@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_checklist/2024-03-11.md",
+                "file": "_daily_checklist/2024-03-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_checklist/2024-03-11.md",
+                "file": "_daily_checklist/2024-03-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_checklist/2024-03-11.md",
+                "file": "_daily_checklist/2024-03-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_checklist/2024-03-11.md"
+                "file": "_daily_checklist/2024-03-12.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "953e47b0a1db91e7",
   "lastOpenFiles": [
-    "_templates/Daily Trade Search.md",
     "_daily_checklist/2024-03-11.md",
+    "_daily_checklist/2024-03-12.md",
+    "_templates/Daily Trade Search.md",
     "_daily_checklist/Daily Check List.md",
     "README.md",
     "_daily_checklist/2024-01-12.md",
@@ -202,7 +203,6 @@
     "BTC/BTC.md",
     "INFY/INFY.md",
     "TVSMOTOR/TVSMOTOR.md",
-    "UPL/UPL.md",
-    "UPL/tda/UPL - TDA - 2024-02-20.md"
+    "UPL/UPL.md"
   ]
 }
