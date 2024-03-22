@@ -27,26 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IPL/mtfa/IPL - MTFA - MIT - 2024-03-01.md",
+                "file": "consistency-report.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc9012c99bfcc0af",
+            "id": "882199a327e78c57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_checklist/2024-03-19.md",
+                "file": "_daily_checklist/Daily Check List.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IPL/mtfa/IPL - MTFA - MIT - 2024-03-01.md",
+                "file": "_daily_checklist/Daily Check List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IPL/mtfa/IPL - MTFA - MIT - 2024-03-01.md",
+                "file": "_daily_checklist/Daily Check List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IPL/mtfa/IPL - MTFA - MIT - 2024-03-01.md"
+                "file": "_daily_checklist/Daily Check List.md"
               }
             }
           },
@@ -183,14 +183,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "1968db04d592df48",
+  "active": "882199a327e78c57",
   "lastOpenFiles": [
     "consistency-report.md",
-    "IPL/mtfa/IPL - MTFA - MIT - 2024-03-01.md",
-    "_daily_checklist/2024-03-22.md",
-    "_daily_checklist/2024-03-19.md",
     "_daily_checklist/Daily Check List.md",
     "README.md",
+    "_daily_checklist/2024-03-19.md",
+    "_daily_checklist/2024-03-13.md",
+    "IPL/mtfa/IPL - MTFA - MIT - 2024-03-01.md",
+    "_daily_checklist/2024-03-22.md",
     "_daily_checklist/2024-03-18.md",
     "GRINDWELL/GRINDWELL.md",
     "GRINDWELL/mtfa",
@@ -229,7 +230,6 @@
     "M&M/mtfa/M&M - MTFA - WIT - 2024-03-10.md",
     "M&M/mtfa/M&M - MTFA - MIT - 2024-03-10.md",
     "_templates/MTFA.md",
-    "_templates/Stock Entry Page.md",
-    "BANKINDIA/BANKINDIA.md"
+    "_templates/Stock Entry Page.md"
   ]
 }
