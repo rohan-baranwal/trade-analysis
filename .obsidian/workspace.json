@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_checklist/2024-03-23.md",
+                "file": "_daily_checklist/2024-03-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6bcb666054d9d910",
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_checklist/2024-03-23.md",
+                "file": "_daily_checklist/2024-03-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_checklist/2024-03-23.md",
+                "file": "_daily_checklist/2024-03-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_checklist/2024-03-23.md"
+                "file": "_daily_checklist/2024-03-30.md"
               }
             }
           },
@@ -185,8 +186,9 @@
   },
   "active": "882199a327e78c57",
   "lastOpenFiles": [
-    "_daily_checklist/Daily Check List.md",
     "_daily_checklist/2024-03-23.md",
+    "_daily_checklist/2024-03-30.md",
+    "_daily_checklist/Daily Check List.md",
     "consistency-report.md",
     "README.md",
     "_daily_checklist/2024-03-19.md",
@@ -229,7 +231,6 @@
     "RAMCOCEM/tda/_attachments/Pasted image 20240310163924.png",
     "M&M/M&M.md",
     "M&M/mtfa/M&M - MTFA - WIT - 2024-03-10.md",
-    "M&M/mtfa/M&M - MTFA - MIT - 2024-03-10.md",
-    "_templates/MTFA.md"
+    "M&M/mtfa/M&M - MTFA - MIT - 2024-03-10.md"
   ]
 }
