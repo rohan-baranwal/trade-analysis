@@ -5,7 +5,8 @@
 - Marked PL of Y SZ which is not looking that good.
 - There must be something in the upper wick of candle
 ### Half Yearly Time Frame
-- 
+- ![](_attachments/Pasted%20image%2020240331182116.png)
+- Marked H3, indicates price is running from HY DZ. Went ATH from there
 ### Quarterly Time Frame
 - 
 ### Monthly Time Frame

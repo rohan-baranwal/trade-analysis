@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUNPHARMA/tda/SUNPHARMA - TDA - 2024-03-31.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUNPHARMA/tda/SUNPHARMA - TDA - 2024-03-31.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUNPHARMA/tda/SUNPHARMA - TDA - 2024-03-31.md"
+                "file": "README.md"
               }
             }
           },
@@ -171,14 +171,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "882199a327e78c57",
+  "active": "953e47b0a1db91e7",
   "lastOpenFiles": [
+    "SUNPHARMA/tda/SUNPHARMA - TDA - 2024-03-31.md",
+    "SUNPHARMA/tda/_attachments/Pasted image 20240331182116.png",
+    "_daily_checklist/2024-03-31.md",
     "SUNPHARMA/tda/_attachments/Pasted image 20240331084426.png",
     "SUNPHARMA/tda/_attachments/Pasted image 20240331084245.png",
     "SUNPHARMA/tda/_attachments",
     "SUNPHARMA/SUNPHARMA.md",
-    "SUNPHARMA/tda/SUNPHARMA - TDA - 2024-03-31.md",
-    "_daily_checklist/2024-03-31.md",
     "README.md",
     "_templates/Stock Entry Page.md",
     "SUNPHARMA/mtfa",
@@ -216,8 +217,6 @@
     "_daily_checklist/2024-01-12.md",
     "_daily_checklist/2024-03-10.md",
     "GREENLAM/mtfa/GREENLAM - MTFA - MIT - 2024-03-10.md",
-    "GREENLAM/mtfa/_attachments/Pasted image 20240310173435.png",
-    "GREENLAM/mtfa/_attachments/Pasted image 20240310173241.png",
-    "GREENLAM/mtfa/_attachments/Pasted image 20240310173206.png"
+    "GREENLAM/mtfa/_attachments/Pasted image 20240310173435.png"
   ]
 }
