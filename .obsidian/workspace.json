@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1111aab9c5b1f49b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily_checklist/2024-04-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_daily_checklist/2024-04-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_daily_checklist/2024-04-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_daily_checklist/2024-04-01.md"
               }
             }
           },
@@ -171,8 +184,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "953e47b0a1db91e7",
+  "active": "1111aab9c5b1f49b",
   "lastOpenFiles": [
+    "README.md",
+    "_daily_checklist/2024-04-01.md",
     "SUNPHARMA/tda/SUNPHARMA - TDA - 2024-03-31.md",
     "SUNPHARMA/tda/_attachments/Pasted image 20240331182116.png",
     "_daily_checklist/2024-03-31.md",
@@ -180,7 +195,6 @@
     "SUNPHARMA/tda/_attachments/Pasted image 20240331084245.png",
     "SUNPHARMA/tda/_attachments",
     "SUNPHARMA/SUNPHARMA.md",
-    "README.md",
     "_templates/Stock Entry Page.md",
     "SUNPHARMA/mtfa",
     "SUNPHARMA/tda",
