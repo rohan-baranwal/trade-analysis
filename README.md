@@ -17,10 +17,11 @@
 | INFY      | Infosys Ltd                      | [INFY](INFY/INFY.md)                | 2024-02-14   |
 | IPL       | India Pesticides Limited         | [IPL](IPL/IPL.md)                   | 2024-03-18   |
 | M&M       | Mahindra And Mahindra            | [M&M](M&M/M&M.md)                   | 2024-03-10   |
+| NRL       | Nupur Recycle                    |                                     | 2024-04-01   |
+| ORIENTCEM | Orient Cement                    | [ORIENTCEM](ORIENTCEM/ORIENTCEM.md) | 2024-04-13   |
 | RAMCOCEM  | Ramco Cement                     | [RAMCOCEM](RAMCOCEM/RAMCOCEM.md)    | 2024-03-10   |
 | TVSMOTOR  | TVS Motors                       | [TVSMOTOR](TVSMOTOR/TVSMOTOR.md)    | 2024-02-08   |
 | UPL       | UPL Ltd                          | [UPL](UPL/UPL.md)                   | 2024-02-19   |
-| NRL       | Nupur Recycle                    |                                     | 2024-04-01   |
 |           |                                  |                                     |              |
 
 #### CRYPTO:

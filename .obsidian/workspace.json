@@ -22,30 +22,6 @@
             }
           },
           {
-            "id": "882199a327e78c57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUNPHARMA/tda/SUNPHARMA - TDA - 2024-03-31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1111aab9c5b1f49b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "018fdf31f42074a0",
             "type": "leaf",
             "state": {
@@ -58,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,14 +171,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "067a388c180ddaf0",
+  "active": "018fdf31f42074a0",
   "lastOpenFiles": [
-    "ORIENTCEM",
-    "_daily_checklist/2024-04-13.md",
-    "_daily_checklist/2024-04-01.md",
-    "NRL",
     "README.md",
     "SUNPHARMA/tda/SUNPHARMA - TDA - 2024-03-31.md",
+    "_daily_checklist/2024-04-13.md",
+    "ORIENTCEM/ORIENTCEM.md",
+    "ORIENTCEM/mtfa",
+    "ORIENTCEM/tda",
+    "ORIENTCEM",
+    "_daily_checklist/2024-04-01.md",
+    "NRL",
     "SUNPHARMA/tda/_attachments/Pasted image 20240331182116.png",
     "_daily_checklist/2024-03-31.md",
     "SUNPHARMA/tda/_attachments/Pasted image 20240331084426.png",
@@ -225,10 +204,7 @@
     "GRINDWELL/GRINDWELL.md",
     "GRINDWELL/mtfa",
     "GRINDWELL/tda",
-    "GRINDWELL",
     "ATUL/ATUL.md",
-    "ATUL/mtfa",
-    "ATUL/tda",
     "IPL/IPL.md",
     "IPL/mtfa/_attachments/Pasted image 20240318220826.png",
     "IPL/tda/IPL - TDA - 2024-03-18.md",
