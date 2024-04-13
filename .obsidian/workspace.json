@@ -39,14 +39,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_checklist/2024-04-01.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "018fdf31f42074a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily_checklist/2024-04-13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_checklist/2024-04-01.md",
+                "file": "_daily_checklist/2024-04-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_checklist/2024-04-01.md",
+                "file": "_daily_checklist/2024-04-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_checklist/2024-04-01.md"
+                "file": "_daily_checklist/2024-04-13.md"
               }
             }
           },
@@ -184,10 +195,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "1111aab9c5b1f49b",
+  "active": "018fdf31f42074a0",
   "lastOpenFiles": [
-    "README.md",
+    "_daily_checklist/2024-04-13.md",
     "_daily_checklist/2024-04-01.md",
+    "NRL",
+    "README.md",
     "SUNPHARMA/tda/SUNPHARMA - TDA - 2024-03-31.md",
     "SUNPHARMA/tda/_attachments/Pasted image 20240331182116.png",
     "_daily_checklist/2024-03-31.md",
@@ -215,7 +228,6 @@
     "ATUL/ATUL.md",
     "ATUL/mtfa",
     "ATUL/tda",
-    "ATUL",
     "IPL/IPL.md",
     "IPL/mtfa/_attachments/Pasted image 20240318220826.png",
     "IPL/tda/IPL - TDA - 2024-03-18.md",
@@ -230,7 +242,6 @@
     "_templates/Daily Trade Search.md",
     "_daily_checklist/2024-01-12.md",
     "_daily_checklist/2024-03-10.md",
-    "GREENLAM/mtfa/GREENLAM - MTFA - MIT - 2024-03-10.md",
     "GREENLAM/mtfa/_attachments/Pasted image 20240310173435.png"
   ]
 }

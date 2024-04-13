@@ -20,6 +20,8 @@
 | RAMCOCEM  | Ramco Cement                     | [RAMCOCEM](RAMCOCEM/RAMCOCEM.md)    | 2024-03-10   |
 | TVSMOTOR  | TVS Motors                       | [TVSMOTOR](TVSMOTOR/TVSMOTOR.md)    | 2024-02-08   |
 | UPL       | UPL Ltd                          | [UPL](UPL/UPL.md)                   | 2024-02-19   |
+| NRL       | Nupur Recycle                    |                                     | 2024-04-01   |
+|           |                                  |                                     |              |
 
 #### CRYPTO:
 | Symbol | Name    | Location          | Last Checked |
