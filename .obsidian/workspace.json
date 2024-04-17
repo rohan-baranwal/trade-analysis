@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAIL/tda/SAIL - TDA - 2024-04-14.md",
+                "file": "NIFTY/TDA/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAIL/tda/SAIL - TDA - 2024-04-14.md",
+                "file": "NIFTY/TDA/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAIL/tda/SAIL - TDA - 2024-04-14.md",
+                "file": "NIFTY/TDA/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAIL/tda/SAIL - TDA - 2024-04-14.md"
+                "file": "NIFTY/TDA/Untitled.md"
               }
             }
           },
@@ -173,10 +173,23 @@
   },
   "active": "018fdf31f42074a0",
   "lastOpenFiles": [
+    "NIFTY/TDA/_attachments/Pasted image 20240417103041.png",
+    "NIFTY/TDA/_attachments/Pasted image 20240417101350.png",
+    "NIFTY/TDA/_attachments/Pasted image 20240417100708.png",
+    "NIFTY/TDA/_attachments/Pasted image 20240417093110.png",
+    "NIFTY/TDA/_attachments/Pasted image 20240417092909.png",
+    "NIFTY/TDA/_attachments",
+    "NIFTY/NIFTY.md",
+    "NIFTY/TDA/Untitled.md",
+    "NIFTY/TDA",
+    "NIFTY/_attachments/Pasted image 20240417092853.png",
+    "NIFTY/_attachments",
+    "_daily_checklist/2024-04-17.md",
+    "NIFTY",
+    "SAIL/tda/SAIL - TDA - 2024-04-14.md",
     "SAIL/tda/_attachments/Pasted image 20240414215331.png",
     "SAIL/tda/_attachments",
     "SAIL/SAIL.md",
-    "SAIL/tda/SAIL - TDA - 2024-04-14.md",
     "_daily_checklist/2024-04-14.md",
     "SAIL/mtfa",
     "SAIL/tda",
@@ -188,17 +201,13 @@
     "ORIENTCEM/ORIENTCEM.md",
     "ORIENTCEM/mtfa",
     "ORIENTCEM/tda",
-    "ORIENTCEM",
     "_daily_checklist/2024-04-01.md",
-    "NRL",
     "SUNPHARMA/tda/_attachments/Pasted image 20240331182116.png",
     "_daily_checklist/2024-03-31.md",
     "SUNPHARMA/tda/_attachments/Pasted image 20240331084426.png",
     "SUNPHARMA/tda/_attachments/Pasted image 20240331084245.png",
-    "SUNPHARMA/tda/_attachments",
     "SUNPHARMA/SUNPHARMA.md",
     "_templates/Stock Entry Page.md",
-    "SUNPHARMA/mtfa",
     "consistency-report.md",
     "_daily_checklist/2024-03-30.md",
     "_daily_checklist/2024-03-23.md",
@@ -209,15 +218,6 @@
     "_daily_checklist/2024-03-22.md",
     "_daily_checklist/2024-03-18.md",
     "GRINDWELL/GRINDWELL.md",
-    "ATUL/ATUL.md",
-    "IPL/IPL.md",
-    "IPL/mtfa/_attachments/Pasted image 20240318220826.png",
-    "IPL/tda/IPL - TDA - 2024-03-18.md",
-    "IPL/tda/_attachments/Pasted image 20240318220500.png",
-    "IPL/tda/_attachments/Pasted image 20240318214521.png",
-    "IPL/tda/_attachments/Pasted image 20240318214300.png",
-    "IPL/tda/_attachments/Pasted image 20240318213816.png",
-    "IPL/tda/_attachments/Pasted image 20240318213741.png",
-    "GREENLAM/mtfa/_attachments/Pasted image 20240310173435.png"
+    "IPL/mtfa/_attachments/Pasted image 20240318220826.png"
   ]
 }
