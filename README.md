@@ -22,7 +22,8 @@
 | RAMCOCEM  | Ramco Cement                     | [RAMCOCEM](RAMCOCEM/RAMCOCEM.md)    | 2024-03-10   |
 | TVSMOTOR  | TVS Motors                       | [TVSMOTOR](TVSMOTOR/TVSMOTOR.md)    | 2024-02-08   |
 | UPL       | UPL Ltd                          | [UPL](UPL/UPL.md)                   | 2024-02-19   |
-|           |                                  |                                     |              |
+| NIFTY     |                                  | [NIFTY](NIFTY/NIFTY.md)             | 2024-04-17   |
+| SUTLEJTEX | Sutlej Textile                   | [SUTLEJTEX](SUTLEJTEX/SUTLEJTEX.md) | 2024-04-20   |
 
 #### CRYPTO:
 | Symbol | Name    | Location          | Last Checked |
