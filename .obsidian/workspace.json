@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BAJAJHIND/tda/BAJAJHIND - TDA - 2024-04-21.md",
+                "file": "SHARDACROP/tda/SHARDACROP - TDA - 2024-04-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BAJAJHIND/tda/BAJAJHIND - TDA - 2024-04-21.md",
+                "file": "SHARDACROP/tda/SHARDACROP - TDA - 2024-04-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BAJAJHIND/tda/BAJAJHIND - TDA - 2024-04-21.md",
+                "file": "SHARDACROP/tda/SHARDACROP - TDA - 2024-04-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BAJAJHIND/tda/BAJAJHIND - TDA - 2024-04-21.md"
+                "file": "SHARDACROP/tda/SHARDACROP - TDA - 2024-04-22.md"
               }
             }
           },
@@ -173,8 +173,14 @@
   },
   "active": "ecc99e70bd58dafd",
   "lastOpenFiles": [
-    "_templates/TDA.md",
+    "SHARDACROP/SHARDACROP.md",
+    "README.md",
+    "SHARDACROP/tda/SHARDACROP - TDA - 2024-04-22.md",
+    "SHARDACROP/mtfa",
+    "SHARDACROP/tda",
     "BAJAJHIND/tda/BAJAJHIND - TDA - 2024-04-21.md",
+    "SHARDACROP",
+    "_templates/TDA.md",
     "BAJAJHIND/BAJAJHIND.md",
     "BAJAJHIND/tda/_attachments",
     "BAJAJHIND/mtfa/BAJAJHIND - MTFA - MIT - 2024-04-22.md",
@@ -185,7 +191,6 @@
     "BAJAJHIND/tda/_attachments/Pasted image 20240422102153.png",
     "_daily_checklist/2024-04-21.md",
     "_daily_checklist/2024-04-22.md",
-    "README.md",
     "BAJAJHIND/tda/_attachments/Pasted image 20240421181204.png",
     "BAJAJHIND/tda/_attachments/Pasted image 20240421180633.png",
     "BAJAJHIND/tda/_attachments/Pasted image 20240421175519.png",
@@ -199,13 +204,10 @@
     "BAJAJHIND",
     "ARVINDFASN/tda/_attachments",
     "ARVINDFASN/mtfa",
-    "ARVINDFASN/tda",
     "ARVINDFASN/Untitled.md",
-    "ARVINDFASN",
     "SUTLEJTEX/tda/SUTLEJTEX - TDA - 2024-04-20.md",
     "SUTLEJTEX/SUTLEJTEX.md",
     "_daily_checklist/2024-04-20.md",
-    "SUTLEJTEX/tda/_attachments",
     "NIFTY/TDA/NIFTY - TDA - 2024-04-17.md",
     "NIFTY/NIFTY.md",
     "_daily_checklist/2024-04-17.md",
@@ -216,7 +218,6 @@
     "SUNPHARMA/tda/SUNPHARMA - TDA - 2024-03-31.md",
     "ORIENTCEM/ORIENTCEM.md",
     "_daily_checklist/2024-04-01.md",
-    "_daily_checklist/2024-03-31.md",
-    "SUNPHARMA/SUNPHARMA.md"
+    "_daily_checklist/2024-03-31.md"
   ]
 }

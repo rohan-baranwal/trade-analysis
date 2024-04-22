@@ -6,26 +6,26 @@
 
 #### NSE:
 
-| Symbol     | Name                             | Location                               | Last Checked |
-| ---------- | -------------------------------- | -------------------------------------- | ------------ |
-| ARVINDFASN | Arvind Fashion                   | [ARVINDFASN](ARVINDFASN/ARVINDFASN.md) | 2024-04-20   |
-| ATUL       | Atul Limited                     | [ATUL](ATUL/ATUL.md)                   | 2024-03-18   |
-| BAJAJHIND  | Bajaj Hindustan Sugar            | [BAJAJHIND](BAJAJHIND/BAJAJHIND.md)    | 2024-04-21   |
-| BANKINDIA  | Bank of India                    | [BANKINDIA](BANKINDIA/BANKINDIA.md)    | 2024-03-05   |
-| CAMS       | Computer Age Management Services | [CAMS](CAMS/CAMS.md)                   | 2024-03-05   |
-| DBL        | Dilip Buildcon Ltd               | [DBL](DBL/DBL.md)                      | 2024-02-19   |
-| DENORA     | De Nora                          | [DENORA](DENORA/DENORA.md)             | 2024-02-19   |
-| GRINDWELL  | Grindwell Norton Limited         | [GRINDWELL](GRINDWELL/GRINDWELL.md)    | 2024-03-19   |
-| INFY       | Infosys Ltd                      | [INFY](INFY/INFY.md)                   | 2024-02-14   |
-| IPL        | India Pesticides Limited         | [IPL](IPL/IPL.md)                      | 2024-03-18   |
-| M&M        | Mahindra And Mahindra            | [M&M](M&M/M&M.md)                      | 2024-03-10   |
-| NIFTY      |                                  | [NIFTY](NIFTY/NIFTY.md)                | 2024-04-17   |
-| NRL        | Nupur Recycle                    |                                        | 2024-04-01   |
-| ORIENTCEM  | Orient Cement                    | [ORIENTCEM](ORIENTCEM/ORIENTCEM.md)    | 2024-04-13   |
-| RAMCOCEM   | Ramco Cement                     | [RAMCOCEM](RAMCOCEM/RAMCOCEM.md)       | 2024-03-10   |
-| SUTLEJTEX  | Sutlej Textile                   | [SUTLEJTEX](SUTLEJTEX/SUTLEJTEX.md)    | 2024-04-20   |
-| TVSMOTOR   | TVS Motors                       | [TVSMOTOR](TVSMOTOR/TVSMOTOR.md)       | 2024-02-08   |
-| UPL        | UPL Ltd                          | [UPL](UPL/UPL.md)                      | 2024-02-19   |
+| Symbol                                 | Name                             | Last Checked |
+| -------------------------------------- | -------------------------------- | ------------ |
+| [ARVINDFASN](ARVINDFASN/ARVINDFASN.md) | Arvind Fashion                   | 2024-04-20   |
+| [ATUL](ATUL/ATUL.md)                   | Atul Limited                     | 2024-03-18   |
+| [BAJAJHIND](BAJAJHIND/BAJAJHIND.md)    | Bajaj Hindustan Sugar            | 2024-04-21   |
+| [BANKINDIA](BANKINDIA/BANKINDIA.md)    | Bank of India                    | 2024-03-05   |
+| [CAMS](CAMS/CAMS.md)                   | Computer Age Management Services | 2024-03-05   |
+| [DBL](DBL/DBL.md)                      | Dilip Buildcon Ltd               | 2024-02-19   |
+| [DENORA](DENORA/DENORA.md)             | De Nora                          | 2024-02-19   |
+| [GRINDWELL](GRINDWELL/GRINDWELL.md)    | Grindwell Norton Limited         | 2024-03-19   |
+| [INFY](INFY/INFY.md)                   | Infosys Ltd                      | 2024-02-14   |
+| [IPL](IPL/IPL.md)                      | India Pesticides Limited         | 2024-03-18   |
+| [M&M](M&M/M&M.md)                      | Mahindra And Mahindra            | 2024-03-10   |
+| [NIFTY](NIFTY/NIFTY.md)                |                                  | 2024-04-17   |
+| [ORIENTCEM](ORIENTCEM/ORIENTCEM.md)    | Orient Cement                    | 2024-04-13   |
+| [RAMCOCEM](RAMCOCEM/RAMCOCEM.md)       | Ramco Cement                     | 2024-03-10   |
+| [SHARDACROP](SHARDACROP/SHARDACROP.md) | Sharda Cropchem Ltd              | 2024-04-22   |
+| [SUTLEJTEX](SUTLEJTEX/SUTLEJTEX.md)    | Sutlej Textile                   | 2024-04-20   |
+| [TVSMOTOR](TVSMOTOR/TVSMOTOR.md)       | TVS Motors                       | 2024-02-08   |
+| [UPL](UPL/UPL.md)                      | UPL Ltd                          | 2024-02-19   |
 
 #### CRYPTO:
 | Symbol | Name    | Location          | Last Checked |
