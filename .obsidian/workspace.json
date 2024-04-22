@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_checklist/2024-04-22.md",
+                "file": "BAJAJHIND/tda/BAJAJHIND - TDA - 2024-04-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_checklist/2024-04-22.md",
+                "file": "BAJAJHIND/tda/BAJAJHIND - TDA - 2024-04-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_checklist/2024-04-22.md",
+                "file": "BAJAJHIND/tda/BAJAJHIND - TDA - 2024-04-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_checklist/2024-04-22.md"
+                "file": "BAJAJHIND/tda/BAJAJHIND - TDA - 2024-04-21.md"
               }
             }
           },
@@ -173,15 +173,23 @@
   },
   "active": "ecc99e70bd58dafd",
   "lastOpenFiles": [
-    "README.md",
-    "_daily_checklist/2024-04-22.md",
-    "BAJAJHIND/mtfa/BAJAJHIND - TDA - 2024-04-21.md",
+    "_templates/TDA.md",
+    "BAJAJHIND/tda/BAJAJHIND - TDA - 2024-04-21.md",
     "BAJAJHIND/BAJAJHIND.md",
+    "BAJAJHIND/tda/_attachments",
+    "BAJAJHIND/mtfa/BAJAJHIND - MTFA - MIT - 2024-04-22.md",
+    "BAJAJHIND/mtfa/_attachments/Pasted image 20240422111454.png",
+    "BAJAJHIND/tda/_attachments/Pasted image 20240422105547.png",
+    "BAJAJHIND/tda/_attachments/Pasted image 20240422103533.png",
+    "BAJAJHIND/tda/_attachments/Pasted image 20240422103013.png",
+    "BAJAJHIND/tda/_attachments/Pasted image 20240422102153.png",
     "_daily_checklist/2024-04-21.md",
-    "BAJAJHIND/mtfa/_attachments/Pasted image 20240421181204.png",
-    "BAJAJHIND/mtfa/_attachments/Pasted image 20240421180633.png",
-    "BAJAJHIND/mtfa/_attachments/Pasted image 20240421175519.png",
-    "BAJAJHIND/mtfa/_attachments/Pasted image 20240421173326.png",
+    "_daily_checklist/2024-04-22.md",
+    "README.md",
+    "BAJAJHIND/tda/_attachments/Pasted image 20240421181204.png",
+    "BAJAJHIND/tda/_attachments/Pasted image 20240421180633.png",
+    "BAJAJHIND/tda/_attachments/Pasted image 20240421175519.png",
+    "BAJAJHIND/tda/_attachments/Pasted image 20240421173326.png",
     "ARVINDFASN/ARVINDFASN.md",
     "BAJAJHIND/mtfa/_attachments/Pasted image 20240421162738.png",
     "BAJAJHIND/mtfa/_attachments",
@@ -189,35 +197,26 @@
     "BAJAJHIND/tda",
     "ARVINDFASN/tda/ARVINDFASN - TDA - 2024-04-21.md",
     "BAJAJHIND",
-    "ARVINDFASN/tda/_attachments/Pasted image 20240421151814.png",
     "ARVINDFASN/tda/_attachments",
     "ARVINDFASN/mtfa",
     "ARVINDFASN/tda",
     "ARVINDFASN/Untitled.md",
     "ARVINDFASN",
     "SUTLEJTEX/tda/SUTLEJTEX - TDA - 2024-04-20.md",
-    "SUTLEJTEX/tda/_attachments/Pasted image 20240420223653.png",
-    "SUTLEJTEX/tda/_attachments/Pasted image 20240420214715.png",
-    "SUTLEJTEX/tda/_attachments/Pasted image 20240420214132.png",
-    "SUTLEJTEX/tda/_attachments/Pasted image 20240420211340.png",
     "SUTLEJTEX/SUTLEJTEX.md",
     "_daily_checklist/2024-04-20.md",
     "SUTLEJTEX/tda/_attachments",
-    "SUTLEJTEX/mtfa",
     "NIFTY/TDA/NIFTY - TDA - 2024-04-17.md",
     "NIFTY/NIFTY.md",
     "_daily_checklist/2024-04-17.md",
     "SAIL/tda/SAIL - TDA - 2024-04-14.md",
     "SAIL/SAIL.md",
     "_daily_checklist/2024-04-14.md",
-    "_templates/TDA.md",
     "_daily_checklist/2024-04-13.md",
     "SUNPHARMA/tda/SUNPHARMA - TDA - 2024-03-31.md",
     "ORIENTCEM/ORIENTCEM.md",
     "_daily_checklist/2024-04-01.md",
     "_daily_checklist/2024-03-31.md",
-    "SUNPHARMA/SUNPHARMA.md",
-    "_templates/Stock Entry Page.md",
-    "consistency-report.md"
+    "SUNPHARMA/SUNPHARMA.md"
   ]
 }
