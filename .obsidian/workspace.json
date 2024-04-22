@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ecc99e70bd58dafd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily_checklist/2024-04-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_daily_checklist/2024-04-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_daily_checklist/2024-04-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_daily_checklist/2024-04-22.md"
               }
             }
           },
@@ -158,12 +171,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "953e47b0a1db91e7",
+  "active": "ecc99e70bd58dafd",
   "lastOpenFiles": [
+    "README.md",
+    "_daily_checklist/2024-04-22.md",
     "BAJAJHIND/mtfa/BAJAJHIND - TDA - 2024-04-21.md",
     "BAJAJHIND/BAJAJHIND.md",
     "_daily_checklist/2024-04-21.md",
-    "README.md",
     "BAJAJHIND/mtfa/_attachments/Pasted image 20240421181204.png",
     "BAJAJHIND/mtfa/_attachments/Pasted image 20240421180633.png",
     "BAJAJHIND/mtfa/_attachments/Pasted image 20240421175519.png",
