@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHARDACROP/tda/SHARDACROP - TDA - 2024-04-22.md",
+                "file": "ARVINDFASN/tda/ARVINDFASN - TDA - 2024-04-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd9979ac4acd982f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARVINDFASN/tda/ARVINDFASN - TDA - 2024-04-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARDACROP/tda/SHARDACROP - TDA - 2024-04-22.md",
+                "file": "ARVINDFASN/tda/ARVINDFASN - TDA - 2024-04-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SHARDACROP/tda/SHARDACROP - TDA - 2024-04-22.md",
+                "file": "ARVINDFASN/tda/ARVINDFASN - TDA - 2024-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SHARDACROP/tda/SHARDACROP - TDA - 2024-04-22.md"
+                "file": "ARVINDFASN/tda/ARVINDFASN - TDA - 2024-04-24.md"
               }
             }
           },
@@ -171,11 +183,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ecc99e70bd58dafd",
+  "active": "dd9979ac4acd982f",
   "lastOpenFiles": [
-    "SHARDACROP/SHARDACROP.md",
+    "ARVINDFASN/tda/_attachments/Pasted image 20240424081525.png",
+    "ARVINDFASN/ARVINDFASN.md",
     "README.md",
+    "ARVINDFASN/tda/ARVINDFASN - TDA - 2024-04-24.md",
+    "_daily_checklist/2024-04-24.md",
     "SHARDACROP/tda/SHARDACROP - TDA - 2024-04-22.md",
+    "SHARDACROP/SHARDACROP.md",
     "SHARDACROP/mtfa",
     "SHARDACROP/tda",
     "BAJAJHIND/tda/BAJAJHIND - TDA - 2024-04-21.md",
@@ -195,12 +211,10 @@
     "BAJAJHIND/tda/_attachments/Pasted image 20240421180633.png",
     "BAJAJHIND/tda/_attachments/Pasted image 20240421175519.png",
     "BAJAJHIND/tda/_attachments/Pasted image 20240421173326.png",
-    "ARVINDFASN/ARVINDFASN.md",
     "BAJAJHIND/mtfa/_attachments/Pasted image 20240421162738.png",
     "BAJAJHIND/mtfa/_attachments",
     "BAJAJHIND/mtfa",
     "BAJAJHIND/tda",
-    "ARVINDFASN/tda/ARVINDFASN - TDA - 2024-04-21.md",
     "BAJAJHIND",
     "ARVINDFASN/tda/_attachments",
     "ARVINDFASN/mtfa",
@@ -216,8 +230,6 @@
     "_daily_checklist/2024-04-14.md",
     "_daily_checklist/2024-04-13.md",
     "SUNPHARMA/tda/SUNPHARMA - TDA - 2024-03-31.md",
-    "ORIENTCEM/ORIENTCEM.md",
-    "_daily_checklist/2024-04-01.md",
-    "_daily_checklist/2024-03-31.md"
+    "ORIENTCEM/ORIENTCEM.md"
   ]
 }

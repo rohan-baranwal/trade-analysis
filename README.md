@@ -8,7 +8,7 @@
 
 | Symbol                                 | Name                             | Last Checked |
 | -------------------------------------- | -------------------------------- | ------------ |
-| [ARVINDFASN](ARVINDFASN/ARVINDFASN.md) | Arvind Fashion                   | 2024-04-20   |
+| [ARVINDFASN](ARVINDFASN/ARVINDFASN.md) | Arvind Fashion                   | 2024-04-24   |
 | [ATUL](ATUL/ATUL.md)                   | Atul Limited                     | 2024-03-18   |
 | [BAJAJHIND](BAJAJHIND/BAJAJHIND.md)    | Bajaj Hindustan Sugar            | 2024-04-21   |
 | [BANKINDIA](BANKINDIA/BANKINDIA.md)    | Bank of India                    | 2024-03-05   |
