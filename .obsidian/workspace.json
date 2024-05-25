@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NIFTYIT/tda/NIFTYIT - TDA - 2024-04-25.md",
+                "file": "_daily_checklist/2024-05-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NIFTYIT/tda/NIFTYIT - TDA - 2024-04-25.md",
+                "file": "_daily_checklist/2024-05-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NIFTYIT/tda/NIFTYIT - TDA - 2024-04-25.md",
+                "file": "_daily_checklist/2024-05-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NIFTYIT/tda/NIFTYIT - TDA - 2024-04-25.md"
+                "file": "_daily_checklist/2024-05-25.md"
               }
             }
           },
@@ -179,15 +179,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "93c1c77e54192eee",
   "lastOpenFiles": [
+    "NIFTYIT/tda/NIFTYIT - TDA - 2024-04-25.md",
+    "_daily_checklist/2024-05-25.md",
     "NIFTYIT/NIFTYIT.md",
     "README.md",
-    "NIFTYIT/tda/NIFTYIT - TDA - 2024-04-25.md",
     "NIFTYIT/tda/_attachments/Pasted image 20240425120158.png",
     "NIFTYIT/tda/_attachments/Pasted image 20240425104820.png",
     "NIFTYIT/tda/_attachments/Pasted image 20240425104714.png",
