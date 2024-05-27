@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "dd9979ac4acd982f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARVINDFASN/tda/ARVINDFASN - TDA - 2024-04-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "93c1c77e54192eee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_checklist/2024-05-25.md",
+                "file": "_daily_checklist/2024-05-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_checklist/2024-05-25.md",
+                "file": "_daily_checklist/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_checklist/2024-05-25.md",
+                "file": "_daily_checklist/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_checklist/2024-05-25.md"
+                "file": "_daily_checklist/2024-05-27.md"
               }
             }
           },
@@ -179,16 +167,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "remotely-save:Remotely Save": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "93c1c77e54192eee",
   "lastOpenFiles": [
-    "NIFTYIT/tda/NIFTYIT - TDA - 2024-04-25.md",
-    "_daily_checklist/2024-05-25.md",
-    "NIFTYIT/NIFTYIT.md",
+    "NIFTYBANK/tda/NIFTYBANK - TDA - 2024-05-25.md",
+    "_daily_checklist/2024-05-27.md",
+    "NIFTYBANK/NIFTYBANK.md",
+    "_templates/TDA.md",
+    "_templates/MTFA.md",
+    "_templates/Stock Entry Page.md",
     "README.md",
+    "_daily_checklist/2024-05-25.md",
+    "NIFTYBANK/mtfa",
+    "NIFTYBANK/tda",
+    "NIFTYBANK",
+    "NIFTYIT/tda/NIFTYIT - TDA - 2024-04-25.md",
+    "NIFTYIT/NIFTYIT.md",
     "NIFTYIT/tda/_attachments/Pasted image 20240425120158.png",
     "NIFTYIT/tda/_attachments/Pasted image 20240425104820.png",
     "NIFTYIT/tda/_attachments/Pasted image 20240425104714.png",
@@ -213,23 +210,14 @@
     "SHARDACROP/SHARDACROP.md",
     "SHARDACROP/mtfa",
     "SHARDACROP/tda",
-    "SHARDACROP",
-    "_templates/TDA.md",
-    "BAJAJHIND/tda/_attachments",
     "BAJAJHIND/mtfa/BAJAJHIND - MTFA - MIT - 2024-04-22.md",
     "BAJAJHIND/mtfa/_attachments/Pasted image 20240422111454.png",
     "_daily_checklist/2024-04-21.md",
     "_daily_checklist/2024-04-22.md",
-    "BAJAJHIND/mtfa/_attachments",
     "ARVINDFASN/Untitled.md",
     "SUTLEJTEX/tda/SUTLEJTEX - TDA - 2024-04-20.md",
     "SUTLEJTEX/SUTLEJTEX.md",
     "_daily_checklist/2024-04-20.md",
-    "NIFTY/TDA/NIFTY - TDA - 2024-04-17.md",
-    "NIFTY/NIFTY.md",
-    "_daily_checklist/2024-04-17.md",
-    "SAIL/tda/SAIL - TDA - 2024-04-14.md",
-    "SAIL/SAIL.md",
-    "_daily_checklist/2024-04-14.md"
+    "NIFTY/TDA/NIFTY - TDA - 2024-04-17.md"
   ]
 }

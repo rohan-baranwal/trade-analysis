@@ -27,6 +27,7 @@
 | [SUTLEJTEX](SUTLEJTEX/SUTLEJTEX.md)    | Sutlej Textile                   | 2024-04-20   |
 | [TVSMOTOR](TVSMOTOR/TVSMOTOR.md)       | TVS Motors                       | 2024-02-08   |
 | [UPL](UPL/UPL.md)                      | UPL Ltd                          | 2024-02-19   |
+| [NIFTYBANK](NIFTYBANK/NIFTYBANK.md)    | INDEX - Bank Nifty               | 2024-05-25   |
 
 #### CRYPTO:
 | Symbol | Name    | Location          | Last Checked |
