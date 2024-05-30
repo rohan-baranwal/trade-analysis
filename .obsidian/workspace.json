@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NIFTYBANK/tda/NIFTYBANK - TDA - 2024-05-26.md",
+                "file": "ICICIBANK/tda/ICICIBANK - TDA - 2024-05-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NIFTYBANK/tda/NIFTYBANK - TDA - 2024-05-26.md",
+                "file": "ICICIBANK/tda/ICICIBANK - TDA - 2024-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NIFTYBANK/tda/NIFTYBANK - TDA - 2024-05-26.md",
+                "file": "ICICIBANK/tda/ICICIBANK - TDA - 2024-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NIFTYBANK/tda/NIFTYBANK - TDA - 2024-05-26.md"
+                "file": "ICICIBANK/tda/ICICIBANK - TDA - 2024-05-30.md"
               }
             }
           },
@@ -173,16 +173,22 @@
   },
   "active": "93c1c77e54192eee",
   "lastOpenFiles": [
+    "ICICIBANK/ICICIBANK.md",
+    "README.md",
+    "ICICIBANK/tda/ICICIBANK - TDA - 2024-05-30.md",
+    "ICICIBANK/mtfa",
+    "ICICIBANK/tda",
+    "NIFTYBANK/tda/NIFTYBANK - TDA - 2024-05-26.md",
+    "ICICIBANK",
+    "_daily_checklist/2024-05-30.md",
     "NIFTYBANK/tda/_attachments/Pasted image 20240529222323.png",
     "NIFTYBANK/tda/_attachments/Pasted image 20240529212629.png",
     "_daily_checklist/2024-05-29.md",
-    "NIFTYBANK/tda/NIFTYBANK - TDA - 2024-05-26.md",
     "NIFTYBANK/tda/_attachments/Pasted image 20240527200041.png",
     "NIFTYBANK/tda/_attachments/Pasted image 20240527192822.png",
     "NIFTYBANK/tda/_attachments/Pasted image 20240527181755.png",
     "NIFTYBANK/tda/_attachments",
     "NIFTYBANK/NIFTYBANK.md",
-    "README.md",
     "_daily_checklist/2024-05-27.md",
     "_templates/TDA.md",
     "_templates/MTFA.md",
@@ -198,13 +204,10 @@
     "NIFTYIT/tda/_attachments/Pasted image 20240425104714.png",
     "NIFTYIT/tda/_attachments/Pasted image 20240425103224.png",
     "NIFTYIT/tda/_attachments/Pasted image 20240425102619.png",
-    "NIFTYIT/tda/_attachments/Pasted image 20240425100400.png",
     "NIFTYIT/tda/_attachments",
     "_daily_checklist/2024-04-25.md",
     "NIFTYIT/mtfa",
     "NIFTYIT/tda",
-    "COFORGE",
-    "NIFTYIT",
     "BAJAJHIND/tda/BAJAJHIND - TDA - 2024-04-21.md",
     "BAJAJHIND/BAJAJHIND.md",
     "ARVINDFASN/tda/ARVINDFASN - TDA - 2024-04-24.md",
@@ -212,12 +215,9 @@
     "_daily_checklist/2024-04-24.md",
     "SHARDACROP/tda/SHARDACROP - TDA - 2024-04-22.md",
     "SHARDACROP/SHARDACROP.md",
-    "SHARDACROP/mtfa",
     "BAJAJHIND/mtfa/BAJAJHIND - MTFA - MIT - 2024-04-22.md",
     "_daily_checklist/2024-04-21.md",
     "_daily_checklist/2024-04-22.md",
-    "ARVINDFASN/Untitled.md",
-    "SUTLEJTEX/tda/SUTLEJTEX - TDA - 2024-04-20.md",
-    "SUTLEJTEX/SUTLEJTEX.md"
+    "ARVINDFASN/Untitled.md"
   ]
 }

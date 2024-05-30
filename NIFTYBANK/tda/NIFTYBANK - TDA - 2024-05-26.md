@@ -31,7 +31,8 @@
 ### Notes
 - 
 ### **Conclusions**
-- 
+- Price is currently reacting from a D SZ.
+- Weekly, Monthly, Quarterly DZs are getting respected
 ### **Questions**
 1. 
 ### **Trades**
