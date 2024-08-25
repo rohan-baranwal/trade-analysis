@@ -26,7 +26,7 @@
 | [ORIENTCEM](ORIENTCEM/ORIENTCEM.md)    | Orient Cement                    | 2024-04-13   |
 | [RAMCOCEM](RAMCOCEM/RAMCOCEM.md)       | Ramco Cement                     | 2024-03-10   |
 | [SHARDACROP](SHARDACROP/SHARDACROP.md) | Sharda Cropchem Ltd              | 2024-04-22   |
-| [SUTLEJTEX](SUTLEJTEX/SUTLEJTEX.md)    | Sutlej Textile                   | 2024-04-20   |
+| [SUTLEJTEX](SUTLEJTEX/SUTLEJTEX.md)    | Sutlej Textile                   | 2024-08-25   |
 | [TVSMOTOR](TVSMOTOR/TVSMOTOR.md)       | TVS Motors                       | 2024-02-08   |
 | [UPL](UPL/UPL.md)                      | UPL Ltd                          | 2024-02-19   |
 |                                        |                                  |              |

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b176657f3eb8071d",
+        "id": "4e022bd6b9f9de15",
         "type": "tabs",
         "children": [
           {
-            "id": "53b7bc03fcb29c44",
+            "id": "defc7480f885a9e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LYKALABS/LYKALABS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LYKALABS/LYKALABS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LYKALABS/LYKALABS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LYKALABS/LYKALABS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,12 +147,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "067a388c180ddaf0",
+  "active": "defc7480f885a9e0",
   "lastOpenFiles": [
+    "SUTLEJTEX/SUTLEJTEX.md",
+    "SUTLEJTEX/mtfa/SUTLEJTEX - MTFA - WIT - 2024-08-25.md",
+    "README.md",
+    "SUTLEJTEX/mtfa/_attachments/Pasted image 20240825211354.png",
+    "SUTLEJTEX/mtfa/_attachments/Pasted image 20240825210455.png",
+    "SUTLEJTEX/mtfa/_attachments",
+    "SUTLEJTEX/mtfa/Untitled.md",
+    "SUTLEJTEX/tda/SUTLEJTEX - TDA - 2024-04-20.md",
+    "SUTLEJTEX/mtfa",
+    "LYKALABS/LYKALABS.md",
     "LYKALABS/Untitled.md",
     "LYKALABS/_attachments",
-    "README.md",
-    "LYKALABS/LYKALABS.md",
     "LYKALABS",
     "_daily_checklist/2024-08-25.md",
     "ORIENTCEM/ORIENTCEM.md",
@@ -185,24 +185,15 @@
     "_templates/TDA.md",
     "NIFTY/tda/_attachments/Pasted image 20240825150016.png",
     "NIFTY/tda/_attachments/Pasted image 20240825150013.png",
-    "NIFTY/tda/_attachments/Pasted image 20240825144054.png",
     "_daily_checklist/Daily Check List.md",
     "_attachments/_attachments.md",
     "INDEX.md.md",
     "NIFTY/TDA/INDEX.md.md",
     "NIFTY/TDA/Untitled.md",
-    "NIFTY/tda/_attachments/Pasted image 20240417092909.png",
     "NIFTY/TDA/NIFTY - TDA - 2024-04-17.md",
     "NIFTYBANK/tda/NIFTYBANK - TDA - 2024-05-26.md",
     "_daily_checklist/2024-03-24.md",
-    "_daily_checklist/2024-08-24.md",
-    "_daily_checklist/2024-07-11.md",
-    "_daily_checklist/2024-07-03.md",
-    "_daily_checklist/Untitled.md",
-    "_daily_checklist/2024-06-19.md",
     "ICICIBANK/tda/_attachments",
-    "ICICIBANK/mtfa",
-    "ICICIBANK/tda",
-    "ICICIBANK"
+    "ICICIBANK/mtfa"
   ]
 }
