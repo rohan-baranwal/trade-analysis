@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NIFTY/TDA/NIFTY - TDA - 2024-08-25.md",
+                "file": "_daily_checklist/2024-08-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NIFTY/TDA/NIFTY - TDA - 2024-08-25.md",
+                "file": "_daily_checklist/2024-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NIFTY/TDA/NIFTY - TDA - 2024-08-25.md",
+                "file": "_daily_checklist/2024-08-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NIFTY/TDA/NIFTY - TDA - 2024-08-25.md"
+                "file": "_daily_checklist/2024-08-25.md"
               }
             }
           },
@@ -193,12 +193,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "remotely-save:Remotely Save": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "93c1c77e54192eee",
   "lastOpenFiles": [
+    "NIFTY/TDA/NIFTY - TDA - 2024-08-25.md",
     "_attachments/_attachments.md",
     "INDEX.md",
     "_attachments/_attachments",
@@ -207,7 +207,6 @@
     "README.md",
     "NIFTY/TDA/INDEX.md.md",
     "NIFTY/TDA/Untitled.md",
-    "NIFTY/TDA/NIFTY - TDA - 2024-08-25.md",
     "NIFTY/TDA/_attachments/Pasted image 20240417092909.png",
     "_templates/TDA.md",
     "_daily_checklist/2024-08-25.md",
