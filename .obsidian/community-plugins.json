@@ -1,11 +1,11 @@
 [
   "obsidian-git",
-  "remotely-save",
   "table-editor-obsidian",
   "obsidian-pandoc",
   "consistent-attachments-and-links",
   "unique-attachments",
   "emoji-shortcodes",
   "obsidian-emoji-toolbar",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "obsidian-folder-index"
 ]

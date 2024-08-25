@@ -1,0 +1,5 @@
+- [ ] Review the merge request description, What problem does it solve? What features does it add?
+- [ ] Proper description provided in MR
+- [ ] JIRA issue linked with MR
+- [ ] Did pipelines run successfully?
+- [ ] Are method names descriptive
