@@ -20,5 +20,9 @@
 1. 
 ### **Trades**
 1.   
+   **LOCATION:** 
+   **TREND:**
+   **EXECUTION:**
+   **SCORE:**
 ### Last Updated On
 -  {{date}}

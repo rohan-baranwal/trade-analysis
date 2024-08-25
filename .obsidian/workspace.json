@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "NIFTY/MTFA/NIFTY - MTFA - HYIT - 2024-08-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "375cf51a521c68b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "NIFTY/TDA/NIFTY - TDA - 2024-08-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,11 +168,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f3baeac6d99f11d",
+  "active": "375cf51a521c68b0",
   "lastOpenFiles": [
-    "README.md",
+    "NIFTY/TDA/_attachments/Pasted image 20240825164202.png",
+    "NIFTY/MTFA/NIFTY - MTFA - HYIT - 2024-08-25.md",
+    "NIFTY/MTFA/Untitled.md",
+    "NIFTY/MTFA/_attachments",
     "NIFTY/TDA/NIFTY - TDA - 2024-08-25.md",
+    "NIFTY/MTFA",
+    "_templates/MTFA.md",
+    "_templates/TDA.md",
+    "NIFTY/TDA/_attachments/Pasted image 20240825150016.png",
+    "NIFTY/TDA/_attachments/Pasted image 20240825150013.png",
     "NIFTY/NIFTY.md",
+    "NIFTY/TDA/_attachments/Pasted image 20240825144054.png",
+    "README.md",
     "_daily_checklist/Daily Check List.md",
     "_daily_checklist/2024-08-25.md",
     "_attachments/_attachments.md",
@@ -170,7 +193,6 @@
     "NIFTY/TDA/INDEX.md.md",
     "NIFTY/TDA/Untitled.md",
     "NIFTY/TDA/_attachments/Pasted image 20240417092909.png",
-    "_templates/TDA.md",
     "NIFTY/TDA/NIFTY - TDA - 2024-04-17.md",
     "NIFTYBANK/tda/NIFTYBANK - TDA - 2024-05-26.md",
     "NIFTYBANK/tda/_attachments/Pasted image 20240825134218.png",
@@ -188,19 +210,11 @@
     "ICICIBANK/mtfa",
     "ICICIBANK/tda",
     "ICICIBANK",
-    "_daily_checklist/2024-05-30.md",
     "NIFTYBANK/tda/_attachments/Pasted image 20240529222323.png",
     "NIFTYBANK/tda/_attachments/Pasted image 20240529212629.png",
-    "_daily_checklist/2024-05-29.md",
     "NIFTYBANK/tda/_attachments/Pasted image 20240527200041.png",
     "NIFTYBANK/tda/_attachments/Pasted image 20240527192822.png",
-    "NIFTYBANK/tda/_attachments/Pasted image 20240527181755.png",
     "NIFTYBANK/tda/_attachments",
-    "NIFTYBANK/NIFTYBANK.md",
-    "NIFTYBANK/mtfa",
-    "NIFTYBANK/tda",
-    "NIFTYBANK",
-    "NIFTYIT/tda/_attachments/Pasted image 20240425120158.png",
-    "NIFTYIT/tda/_attachments/Pasted image 20240425104820.png"
+    "NIFTYBANK/mtfa"
   ]
 }
