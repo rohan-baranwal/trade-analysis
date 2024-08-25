@@ -33,6 +33,6 @@
 | [UPL](UPL/UPL.md)                      | UPL Ltd                          | 2024-02-19   |
 
 #### CRYPTO:
-| Symbol | Name    | Location          | Last Checked |
-| ------ | ------- | ----------------- | ------------ |
-| BTC    | Bitcoin | [BTC](BTC/BTC.md) | 2024-02-14   |
+| Symbol | Name    | Location | Last Checked |
+| ------ | ------- | -------- | ------------ |
+| BTC    | Bitcoin |          | 2024-02-14   |
