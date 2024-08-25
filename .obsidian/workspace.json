@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d518f7217761e041",
+        "id": "b176657f3eb8071d",
         "type": "tabs",
         "children": [
           {
-            "id": "6f3baeac6d99f11d",
+            "id": "53b7bc03fcb29c44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NIFTY/MTFA/NIFTY - MTFA - HYIT - 2024-08-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "375cf51a521c68b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NIFTY/TDA/NIFTY - TDA - 2024-08-25.md",
+                "file": "LYKALABS/LYKALABS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NIFTY/TDA/NIFTY - TDA - 2024-08-25.md",
+                "file": "LYKALABS/LYKALABS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NIFTY/TDA/NIFTY - TDA - 2024-08-25.md",
+                "file": "LYKALABS/LYKALABS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NIFTY/TDA/NIFTY - TDA - 2024-08-25.md"
+                "file": "LYKALABS/LYKALABS.md"
               }
             }
           },
@@ -168,53 +155,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "375cf51a521c68b0",
+  "active": "067a388c180ddaf0",
   "lastOpenFiles": [
-    "NIFTY/TDA/_attachments/Pasted image 20240825164202.png",
-    "NIFTY/MTFA/NIFTY - MTFA - HYIT - 2024-08-25.md",
-    "NIFTY/MTFA/Untitled.md",
-    "NIFTY/MTFA/_attachments",
-    "NIFTY/TDA/NIFTY - TDA - 2024-08-25.md",
-    "NIFTY/MTFA",
-    "_templates/MTFA.md",
-    "_templates/TDA.md",
-    "NIFTY/TDA/_attachments/Pasted image 20240825150016.png",
-    "NIFTY/TDA/_attachments/Pasted image 20240825150013.png",
-    "NIFTY/NIFTY.md",
-    "NIFTY/TDA/_attachments/Pasted image 20240825144054.png",
+    "LYKALABS/Untitled.md",
+    "LYKALABS/_attachments",
     "README.md",
-    "_daily_checklist/Daily Check List.md",
+    "LYKALABS/LYKALABS.md",
+    "LYKALABS",
     "_daily_checklist/2024-08-25.md",
-    "_attachments/_attachments.md",
+    "ORIENTCEM/ORIENTCEM.md",
     "INDEX.md",
+    "NIFTY/NIFTY.md",
+    "NIFTY/mtfa/NIFTY - MTFA - MIT - 2024-08-25.md",
+    "NIFTY/mtfa/_attachments/Pasted image 20240825203659.png",
+    "NIFTY/mtfa/_attachments/Pasted image 20240825203619.png",
+    "NIFTY/mtfa/_attachments",
+    "NIFTY/MTFA/Untitled.md",
     "_attachments/_attachments",
     "_attachments",
+    "Untitled.canvas",
+    "NIFTY/tda/NIFTY - TDA - 2024-08-25.md",
+    "NIFTY/tda/_attachments/Pasted image 20240825202859.png",
+    "NIFTY/tda/_attachments/Pasted image 20240825202747.png",
+    "NIFTY/tda/_attachments/Pasted image 20240825202300.png",
+    "NIFTY/mtfa/NIFTY - MTFA - HYIT - 2024-08-25.md",
+    "NIFTY/tda/_attachments/Pasted image 20240825164202.png",
+    "NIFTY/mtfa",
+    "_templates/MTFA.md",
+    "_templates/TDA.md",
+    "NIFTY/tda/_attachments/Pasted image 20240825150016.png",
+    "NIFTY/tda/_attachments/Pasted image 20240825150013.png",
+    "NIFTY/tda/_attachments/Pasted image 20240825144054.png",
+    "_daily_checklist/Daily Check List.md",
+    "_attachments/_attachments.md",
     "INDEX.md.md",
     "NIFTY/TDA/INDEX.md.md",
     "NIFTY/TDA/Untitled.md",
-    "NIFTY/TDA/_attachments/Pasted image 20240417092909.png",
+    "NIFTY/tda/_attachments/Pasted image 20240417092909.png",
     "NIFTY/TDA/NIFTY - TDA - 2024-04-17.md",
     "NIFTYBANK/tda/NIFTYBANK - TDA - 2024-05-26.md",
-    "NIFTYBANK/tda/_attachments/Pasted image 20240825134218.png",
     "_daily_checklist/2024-03-24.md",
     "_daily_checklist/2024-08-24.md",
     "_daily_checklist/2024-07-11.md",
     "_daily_checklist/2024-07-03.md",
     "_daily_checklist/Untitled.md",
     "_daily_checklist/2024-06-19.md",
-    "ICICIBANK/tda/ICICIBANK - TDA - 2024-05-30.md",
-    "ICICIBANK/ICICIBANK.md",
-    "_daily_checklist/2024-06-01.md",
-    "ICICIBANK/tda/_attachments/Pasted image 20240530202246.png",
     "ICICIBANK/tda/_attachments",
     "ICICIBANK/mtfa",
     "ICICIBANK/tda",
-    "ICICIBANK",
-    "NIFTYBANK/tda/_attachments/Pasted image 20240529222323.png",
-    "NIFTYBANK/tda/_attachments/Pasted image 20240529212629.png",
-    "NIFTYBANK/tda/_attachments/Pasted image 20240527200041.png",
-    "NIFTYBANK/tda/_attachments/Pasted image 20240527192822.png",
-    "NIFTYBANK/tda/_attachments",
-    "NIFTYBANK/mtfa"
+    "ICICIBANK"
   ]
 }
