@@ -15,10 +15,12 @@
 | [CAMS](CAMS/CAMS.md)                   | Computer Age Management Services | 2024-03-05   |
 | [DBL](DBL/DBL.md)                      | Dilip Buildcon Ltd               | 2024-02-19   |
 | [DENORA](DENORA/DENORA.md)             | De Nora                          | 2024-02-19   |
+| [EDELWEISS](EDELWEISS/EDELWEISS.md)    | Edelweiss Financial Services Ltd | 2024-08-25   |
 | [GRINDWELL](GRINDWELL/GRINDWELL.md)    | Grindwell Norton Limited         | 2024-03-19   |
 | [ICICIBANK](ICICIBANK/ICICIBANK.md)    | ICICI Bank                       | 2024-05-30   |
 | [INFY](INFY/INFY.md)                   | Infosys Ltd                      | 2024-02-14   |
 | [IPL](IPL/IPL.md)                      | India Pesticides Limited         | 2024-03-18   |
+| [JISLJALEQS](JISLJALEQS/JISLJALEQS.md) | Jain Irrigation Systems          | 2024-08-25   |
 | [M&M](M&M/M&M.md)                      | Mahindra And Mahindra            | 2024-03-10   |
 | [NIFTY](NIFTY/NIFTY.md)                | **INDEX** - Nifty 50             | 2024-08-25   |
 | [NIFTYBANK](NIFTYBANK/NIFTYBANK.md)    | INDEX - Bank Nifty               | 2024-05-25   |
@@ -29,7 +31,6 @@
 | [SUTLEJTEX](SUTLEJTEX/SUTLEJTEX.md)    | Sutlej Textile                   | 2024-08-25   |
 | [TVSMOTOR](TVSMOTOR/TVSMOTOR.md)       | TVS Motors                       | 2024-02-08   |
 | [UPL](UPL/UPL.md)                      | UPL Ltd                          | 2024-02-19   |
-|                                        |                                  |              |
 
 #### CRYPTO:
 | Symbol | Name    | Location          | Last Checked |
