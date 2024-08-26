@@ -29,4 +29,7 @@
 ### **Questions**
 1. 
 ### Last Updated On
--  2024-08-25
+#### 2024-08-26
+- Price still went up from the zone. Penetrating deep into QSZ RB3Q
+  ![](_attachments/Pasted%20image%2020240826204712.png)
+- 

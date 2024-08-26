@@ -10,19 +10,9 @@
 - 
 ### Weekly Time Frame
 - 
-### EMA-20 Markings
-
+### Daily Time Frame
+- 
 ### Notes
 - 
-### **Conclusions**
-- 
-### **Questions**
-1. 
-### **Trades**
-1.   
-   **LOCATION:** 
-   **TREND:**
-   **EXECUTION:**
-   **SCORE:**
-### Last Updated On
--  {{date}}
+### Updates
+#### {{2024-08-XX}}

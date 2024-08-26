@@ -15,19 +15,8 @@
 ### Weekly Time Frame
 - ![](_attachments/Pasted%20image%2020240825222705.png)
 - RB9W WDZ was responsible for killing off 2 SZs. That zone is good, Price reacting from there as well. Keep an eye on this stock
-### EMA-20 Markings
-
-### Notes
+### Updates
+#### 2024-08-26
+- Price is still sideways as expected from MSZ.
+#### 2024-08-27
 - 
-### **Conclusions**
-- 
-### **Questions**
-1. 
-### **Trades**
-1.   
-   **LOCATION:** 
-   **TREND:**
-   **EXECUTION:**
-   **SCORE:**
-### Last Updated On
--  2024-08-25

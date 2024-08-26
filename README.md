@@ -15,15 +15,15 @@
 | [CAMS](CAMS/CAMS.md)                   | Computer Age Management Services | 2024-03-05   |
 | [DBL](DBL/DBL.md)                      | Dilip Buildcon Ltd               | 2024-02-19   |
 | [DENORA](DENORA/DENORA.md)             | De Nora                          | 2024-02-19   |
-| [EDELWEISS](EDELWEISS/EDELWEISS.md)    | Edelweiss Financial Services Ltd | 2024-08-25   |
+| [EDELWEISS](EDELWEISS/EDELWEISS.md)    | Edelweiss Financial Services Ltd | 2024-08-26   |
 | [GRINDWELL](GRINDWELL/GRINDWELL.md)    | Grindwell Norton Limited         | 2024-03-19   |
 | [ICICIBANK](ICICIBANK/ICICIBANK.md)    | ICICI Bank                       | 2024-05-30   |
 | [INFY](INFY/INFY.md)                   | Infosys Ltd                      | 2024-02-14   |
 | [IPL](IPL/IPL.md)                      | India Pesticides Limited         | 2024-03-18   |
-| [JISLJALEQS](JISLJALEQS/JISLJALEQS.md) | Jain Irrigation Systems          | 2024-08-25   |
+| [JISLJALEQS](JISLJALEQS/JISLJALEQS.md) | Jain Irrigation Systems          | 2024-08-26   |
 | [M&M](M&M/M&M.md)                      | Mahindra And Mahindra            | 2024-03-10   |
 | [NIFTY](NIFTY/NIFTY.md)                | **INDEX** - Nifty 50             | 2024-08-25   |
-| [NIFTYBANK](NIFTYBANK/NIFTYBANK.md)    | INDEX - Bank Nifty               | 2024-05-25   |
+| [NIFTYBANK](NIFTYBANK/NIFTYBANK.md)    | INDEX - Bank Nifty               | 2024-08-26   |
 | [NIFTYIT](NIFTYIT/NIFTYIT.md)          | **INDEX** - Nifty IT             | 2024-04-25   |
 | [ORIENTCEM](ORIENTCEM/ORIENTCEM.md)    | Orient Cement                    | 2024-04-13   |
 | [RAMCOCEM](RAMCOCEM/RAMCOCEM.md)       | Ramco Cement                     | 2024-03-10   |
