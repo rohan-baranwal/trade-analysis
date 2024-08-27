@@ -44,3 +44,7 @@
 ### Notes
 - Price is currently reacting from a D SZ.
 - Weekly, Monthly, Quarterly DZs are getting respected
+### Updates
+#### 2024-08-27
+- ![](_attachments/Pasted%20image%2020240827230826.png)
+- Price getting stopped in W SZ. Going up from a tested W DZ which means it might take some time to go up
