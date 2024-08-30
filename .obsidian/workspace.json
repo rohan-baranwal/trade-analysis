@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_checklist/2024-08-28.md",
+                "file": "_daily_checklist/2024-08-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_checklist/2024-08-28.md",
+                "file": "_daily_checklist/2024-08-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_checklist/2024-08-28.md",
+                "file": "_daily_checklist/2024-08-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_checklist/2024-08-28.md"
+                "file": "_daily_checklist/2024-08-30.md"
               }
             }
           },
@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,8 +156,10 @@
   },
   "active": "3d61a74b160b914b",
   "lastOpenFiles": [
-    "NIFTYBANK/tda/NIFTYBANK - TDA - 2024-05-26.md",
+    "_daily_checklist/2024-08-29.md",
+    "_daily_checklist/2024-08-30.md",
     "_daily_checklist/2024-08-28.md",
+    "NIFTYBANK/tda/NIFTYBANK - TDA - 2024-05-26.md",
     "NIFTYBANK/tda/_attachments/Pasted image 20240827230826.png",
     "NIFTY/tda/NIFTY - TDA - 2024-08-25.md",
     "EDELWEISS/tda/EDELWEISS - TDA - 2024-08-25.md",
@@ -196,13 +197,11 @@
     "EDELWEISS/tda/_attachments",
     "EDELWEISS/mtfa",
     "EDELWEISS/tda/Untitled.md",
-    "EDELWEISS/Untitled.md",
     "EDELWEISS/_attachments",
     "EDELWEISS/tda",
     "EDELWEISS",
     "_daily_checklist/_attachments",
     "JISLJALEQS/tda/_attachments",
-    "JISLJALEQS/tda/Untitled.md",
     "Untitled.canvas"
   ]
 }
