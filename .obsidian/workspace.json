@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_checklist/Daily Check List.md",
+                "file": "HDFCBANK/HDFCBANK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a937ec90c0da6fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily_checklist/2024-10-13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_checklist/Daily Check List.md",
+                "file": "_daily_checklist/2024-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_checklist/Daily Check List.md",
+                "file": "_daily_checklist/2024-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_checklist/Daily Check List.md"
+                "file": "_daily_checklist/2024-10-13.md"
               }
             }
           },
@@ -154,17 +167,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d61a74b160b914b",
+  "active": "3a937ec90c0da6fb",
   "lastOpenFiles": [
-    "README.md",
     "NIFTY/tda/NIFTY - TDA - 2024-08-25.md",
+    "_daily_checklist/2024-10-13.md",
+    "NIFTY/NIFTY.md",
+    "_daily_checklist/2024-09-22.md",
+    "_daily_checklist/2024-09-13.md",
+    "_daily_checklist/2024-09-11.md",
+    "_daily_checklist/2024-09-09.md",
+    "HDFCBANK/tda/HDFCBANK - TDA - 2024-09-08.md",
+    "HDFCBANK/HDFCBANK.md",
+    "_daily_checklist/2024-09-08.md",
+    "HDFCBANK/tda/{STOCK} - TDA - 2024-09-08.md",
+    "HDFCBANK/tda/_attachments",
+    "HDFCBANK/tda/Untitled.md",
+    "HDFCBANK/Untitled.md",
+    "HDFCBANK/_attachments",
+    "_daily_checklist/Daily Check List.md",
+    "HDFCBANK/mtfa",
+    "HDFCBANK/tda",
+    "HDFCBANK",
+    "README.md",
     "NIFTY/tda/_attachments/Pasted image 20240908175846.png",
     "NIFTY/tda/_attachments/Pasted image 20240908165943.png",
     "NIFTY/tda/_attachments/Pasted image 20240908165923.png",
-    "NIFTY/NIFTY.md",
-    "_daily_checklist/2024-09-08.md",
     "_daily_checklist/2024-09-07.md",
-    "_daily_checklist/Daily Check List.md",
     "_daily_checklist/2024-09-02.md",
     "_daily_checklist/2024-08-30.md",
     "_daily_checklist/2024-08-29.md",
@@ -180,27 +208,13 @@
     "NIFTYBANK/tda/_attachments/Pasted image 20240826214126.png",
     "NIFTYBANK/tda/_attachments/Pasted image 20240826212422.png",
     "_templates/TDA.md",
-    "JISLJALEQS/JISLJALEQS.md",
-    "JISLJALEQS/tda/JISLJALEQS - TDA - 2024-08-25.md",
-    "NIFTY/mtfa/NIFTY - MTFA - MIT - 2024-08-25.md",
     "EDELWEISS/tda/_attachments/Pasted image 20240826204712.png",
     "EDELWEISS/tda/_attachments/Pasted image 20240826204700.png",
-    "EDELWEISS/EDELWEISS.md",
-    "consistency-report.md",
-    "Analysis/Bitcoin - Top Down (2024-02-14).md",
     "BTC/_attachments",
     "BTC",
-    "BTC/BTC.md",
     "Analysis",
-    "_daily_checklist/2024-04-22.md",
-    "NIFTY/mtfa/NIFTY - MTFA - HYIT - 2024-08-25.md",
     "EDELWEISS/tda/_attachments",
     "EDELWEISS/mtfa",
-    "EDELWEISS/_attachments",
-    "EDELWEISS/tda",
-    "EDELWEISS",
-    "_daily_checklist/_attachments",
-    "JISLJALEQS/tda/_attachments",
     "Untitled.canvas"
   ]
 }
