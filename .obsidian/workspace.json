@@ -16,7 +16,9 @@
                 "file": "HDFCBANK/HDFCBANK.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "HDFCBANK"
             }
           },
           {
@@ -25,10 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_checklist/2024-10-13.md",
+                "file": "XAUUSD (GOLD CAPITALCOM)/tda/XAUUSD - TDA - 2024-11-26.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "XAUUSD - TDA - 2024-11-26"
             }
           }
         ],
@@ -52,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_checklist/2024-10-13.md",
+                "file": "XAUUSD (GOLD CAPITALCOM)/tda/XAUUSD - TDA - 2024-11-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for XAUUSD - TDA - 2024-11-26"
             }
           },
           {
@@ -115,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_checklist/2024-10-13.md",
+                "file": "XAUUSD (GOLD CAPITALCOM)/tda/XAUUSD - TDA - 2024-11-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from XAUUSD - TDA - 2024-11-26"
             }
           },
           {
@@ -129,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_checklist/2024-10-13.md"
-              }
+                "file": "XAUUSD (GOLD CAPITALCOM)/tda/XAUUSD - TDA - 2024-11-26.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of XAUUSD - TDA - 2024-11-26"
             }
           },
           {
@@ -147,10 +165,23 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "46e5ffcfc2d41052",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -164,14 +195,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "3a937ec90c0da6fb",
   "lastOpenFiles": [
-    "NIFTY/tda/NIFTY - TDA - 2024-08-25.md",
+    "XAUUSD (GOLD CAPITALCOM)/XAUUSD.md",
+    "XAUUSD (GOLD CAPITALCOM)/tda/XAUUSD - TDA - 2024-11-26.md",
+    "XAUUSD (GOLD CAPITALCOM)/mtfa",
+    "_daily_checklist/2024-11-26.md",
+    "XAUUSD (GOLD CAPITALCOM)/tda",
+    "XAUUSD (GOLD CAPITALCOM)",
     "_daily_checklist/2024-10-13.md",
+    "NIFTY/tda/NIFTY - TDA - 2024-08-25.md",
     "NIFTY/NIFTY.md",
     "_daily_checklist/2024-09-22.md",
     "_daily_checklist/2024-09-13.md",
@@ -202,20 +239,14 @@
     "NIFTYBANK/tda/_attachments/Pasted image 20240827230826.png",
     "EDELWEISS/tda/EDELWEISS - TDA - 2024-08-25.md",
     "_daily_checklist/2024-08-26.md",
-    "NIFTYBANK/NIFTYBANK.md",
-    "_daily_checklist/2024-08-27.md",
     "NIFTYBANK/tda/_attachments/Pasted image 20240826215101.png",
     "NIFTYBANK/tda/_attachments/Pasted image 20240826214921.png",
     "NIFTYBANK/tda/_attachments/Pasted image 20240826214126.png",
     "NIFTYBANK/tda/_attachments/Pasted image 20240826212422.png",
-    "_templates/TDA.md",
     "EDELWEISS/tda/_attachments/Pasted image 20240826204712.png",
     "EDELWEISS/tda/_attachments/Pasted image 20240826204700.png",
     "BTC/_attachments",
     "BTC",
-    "Analysis",
-    "EDELWEISS/tda/_attachments",
-    "EDELWEISS/mtfa",
     "Untitled.canvas"
   ]
 }
