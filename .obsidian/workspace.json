@@ -8,27 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d61a74b160b914b",
+            "id": "4e527b148c3b7133",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HDFCBANK/HDFCBANK.md",
+                "file": "NIFTY/NIFTY.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "NIFTY"
             }
           },
           {
-            "id": "3a937ec90c0da6fb",
+            "id": "5103086846519740",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily_checklist/2024-10-13.md",
+                "file": "_daily_checklist/2024-12-02.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-02"
             }
           }
         ],
@@ -52,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily_checklist/2024-10-13.md",
+                "file": "_daily_checklist/2024-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-12-02"
             }
           },
           {
@@ -115,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily_checklist/2024-10-13.md",
+                "file": "_daily_checklist/2024-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-25"
             }
           },
           {
@@ -129,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily_checklist/2024-10-13.md"
-              }
+                "file": "_daily_checklist/2024-11-25.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-25"
             }
           },
           {
@@ -147,10 +165,23 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "81034f0d74abd07a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -168,11 +199,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a937ec90c0da6fb",
+  "active": "d152267a79c33255",
   "lastOpenFiles": [
+    "_daily_checklist/2024-11-28.md",
+    "_daily_checklist/2024-12-02.md",
+    "NIFTY/tda/NIFTY - TDA - 2024-11-25.md",
+    "NIFTY/tda/_attachments/Pasted image 20241125121117.png",
     "NIFTY/tda/NIFTY - TDA - 2024-08-25.md",
-    "_daily_checklist/2024-10-13.md",
     "NIFTY/NIFTY.md",
+    "_daily_checklist/2024-11-25.md",
+    "_daily_checklist/2024-10-13.md",
     "_daily_checklist/2024-09-22.md",
     "_daily_checklist/2024-09-13.md",
     "_daily_checklist/2024-09-11.md",
@@ -201,16 +237,11 @@
     "NIFTYBANK/tda/NIFTYBANK - TDA - 2024-05-26.md",
     "NIFTYBANK/tda/_attachments/Pasted image 20240827230826.png",
     "EDELWEISS/tda/EDELWEISS - TDA - 2024-08-25.md",
-    "_daily_checklist/2024-08-26.md",
-    "NIFTYBANK/NIFTYBANK.md",
-    "_daily_checklist/2024-08-27.md",
     "NIFTYBANK/tda/_attachments/Pasted image 20240826215101.png",
     "NIFTYBANK/tda/_attachments/Pasted image 20240826214921.png",
     "NIFTYBANK/tda/_attachments/Pasted image 20240826214126.png",
     "NIFTYBANK/tda/_attachments/Pasted image 20240826212422.png",
-    "_templates/TDA.md",
     "EDELWEISS/tda/_attachments/Pasted image 20240826204712.png",
-    "EDELWEISS/tda/_attachments/Pasted image 20240826204700.png",
     "BTC/_attachments",
     "BTC",
     "Analysis",
