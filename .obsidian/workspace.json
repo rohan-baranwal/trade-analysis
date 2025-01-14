@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NIFTY/NIFTY.md",
+                "file": "_daily_checklist/2025-01-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NIFTY"
-            }
-          },
-          {
-            "id": "5103086846519740",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_daily_checklist/2024-12-08.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-08"
+              "title": "2025-01-14"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,9 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5103086846519740",
+  "active": "4e527b148c3b7133",
   "lastOpenFiles": [
     "NIFTY/tda/NIFTY - TDA - 2024-12-07.md",
+    "_daily_checklist/2025-01-14.md",
+    "NIFTY/NIFTY.md",
     "_daily_checklist/2024-12-08.md",
     "NIFTY/tda/NIFTY - TDA - 2024-11-25.md",
     "_daily_checklist/2024-12-07.md",
@@ -216,7 +203,6 @@
     "_daily_checklist/2024-11-28.md",
     "NIFTY/tda/_attachments/Pasted image 20241125121117.png",
     "NIFTY/tda/NIFTY - TDA - 2024-08-25.md",
-    "NIFTY/NIFTY.md",
     "_daily_checklist/2024-11-25.md",
     "_daily_checklist/2024-10-13.md",
     "_daily_checklist/2024-09-22.md",
@@ -231,7 +217,6 @@
     "HDFCBANK/tda/Untitled.md",
     "HDFCBANK/Untitled.md",
     "HDFCBANK/_attachments",
-    "_daily_checklist/Daily Check List.md",
     "HDFCBANK/mtfa",
     "HDFCBANK/tda",
     "HDFCBANK",
