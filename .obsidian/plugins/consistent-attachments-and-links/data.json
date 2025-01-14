@@ -1,18 +1,17 @@
 {
   "autoCollectAttachments": false,
-  "changeNoteBacklinksAlt": false,
+  "changeNoteBacklinksAlt": true,
   "consistencyReportFile": "consistency-report.md",
   "deleteAttachmentsWithNote": true,
   "deleteEmptyFolders": true,
   "deleteExistFilesWhenMoveNote": true,
-  "ignoreFiles": [
-    "consistency\\-report\\.md"
-  ],
-  "ignoreFolders": [
+  "moveAttachmentsWithNote": true,
+  "showBackupWarning": false,
+  "updateLinks": true,
+  "excludePaths": [
+    "/consistency\\-report\\.md$/",
     ".git/",
     ".obsidian/"
   ],
-  "moveAttachmentsWithNote": true,
-  "showWarning": false,
-  "updateLinks": true
+  "includePaths": []
 }
